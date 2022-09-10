@@ -1,6 +1,37 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Alexander%
+\ \protect \BOthers {.}}{%
+Alexander%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+AETAL2019JGR}
+\APACinsertmetastar {%
+AETAL2019JGR}%
+\begin{APACrefauthors}%
+Alexander, P.%
+, LeGrande, A.%
+, Fischer, E.%
+, Tedesco, M.%
+, Fettweis, X.%
+, Kelley, M.%
+\BDBL {}Schmidt, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Simulated Greenland surface mass balance in the GISS
+  ModelE2 GCM: Role of the ice sheet surface} {Simulated greenland surface mass
+  balance in the giss modele2 gcm: Role of the ice sheet surface}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geophysical Research: Earth
+  Surface}{124}{3}{750--765}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bacmeister%
 \ \protect \BOthers {.}}{%
 Bacmeister%
@@ -2411,6 +2442,35 @@ Team, E\BPBI J\BPBI S.%
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
 \APACrefbtitle {ESMF User Guide} {Esmf user guide}\ \APACbVolEdTR{}{\BTR{}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tedesco%
+\ \BBA {} Alexander%
+}{%
+Tedesco%
+\ \BBA {} Alexander%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+MODIS}
+\APACinsertmetastar {%
+MODIS}%
+\begin{APACrefauthors}%
+Tedesco, M.%
+\BCBT {}\ \BBA {} Alexander, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {MODIS (MOD10A1) albedo data on the MAR RCM grid
+  (2000–2013).} {Modis (mod10a1) albedo data on the mar rcm grid
+  (2000–2013).}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{URL: https://cds. climate. copernicus. eu}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.18739/A2SK7T} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

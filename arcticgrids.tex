@@ -166,7 +166,7 @@
 
 \begin{abstract}
 
-Six different configurations, a mixture of grids and atmospheric dynamical cores available in the Community Earth System Model, version 2.2 (CESM2.2), are evaluated for their skill in representing the climate of the Arctic and the surface mass balance of the Greenland Ice Sheet (GrIS). {\color{blue}{The finite-volume dynamical core uses structured, latitude-longitude grids, whereas the spectral-element dynamical core is built with unstructured meshes, allowing for flexible grid structures such as quasi-uniform grid spacing globally.}} The $1^{\circ}-2^{\circ}$ {\color{blue}{latitude-longitude and quasi-uniform unstructured}} grids systematically overestimate both accumulation and ablation over the GrIS. Of these $1^{\circ}-2^{\circ}$ grids, the latitude-longitude grids outperform the quasi-uniform unstructured grids because they have more degrees of freedom to represent the GrIS. Two Arctic-refined meshes, with $1/4^{\circ}$ and $1/8^{\circ}$ refinement over Greenland, were developed for the spectral-element dynamical core and are documented here as newly supported configurations in CESM2.2. The Arctic meshes substantially improve the simulated clouds and precipitation rates in the Arctic. Over Greenland, these meshes skillfully represent accumulation and ablation processes, leading to a more realistic GrIS surface mass balance. As CESM is in the process of transitioning away from conventional latitude-longitude grids, these new Arctic-refined meshes improve the representation of polar processes in CESM by recovering resolution lost in the transition to quasi-uniform grids, albeit at increased computational cost.
+Six different configurations, a mixture of grids and atmospheric dynamical cores available in the Community Earth System Model, version 2.2 (CESM2.2), are evaluated for their skill in representing the climate of the Arctic and the surface mass balance of the Greenland Ice Sheet (GrIS). {\color{blue}{The finite-volume dynamical core uses structured, latitude-longitude grids, whereas the spectral-element dynamical core is built on unstructured meshes, permitting grid flexibility such as quasi-uniform grid spacing globally.}} The $1^{\circ}-2^{\circ}$ {\color{blue}{latitude-longitude and quasi-uniform unstructured}} grids systematically overestimate both accumulation and ablation over the GrIS. Of these $1^{\circ}-2^{\circ}$ grids, the latitude-longitude grids outperform the quasi-uniform unstructured grids because they have more degrees of freedom to represent the GrIS. Two Arctic-refined meshes, with $1/4^{\circ}$ and $1/8^{\circ}$ refinement over Greenland, were developed for the spectral-element dynamical core and are documented here as newly supported configurations in CESM2.2. The Arctic meshes substantially improve the simulated clouds and precipitation rates in the Arctic. Over Greenland, these meshes skillfully represent accumulation and ablation processes, leading to a more realistic GrIS surface mass balance. As CESM is in the process of transitioning away from conventional latitude-longitude grids, these new Arctic-refined meshes improve the representation of polar processes in CESM by recovering resolution lost in the transition to quasi-uniform grids, albeit at increased computational cost.
 
 \end{abstract}
 
@@ -196,7 +196,7 @@ The polar filter in the FV model impedes efficiency at large processor (CPU) cou
 
 We emphasize that the pole problem is a distinctive feature of the dycore in atmospheric models. Polar filters do not directly interfere with the physical parameterizations, nor do they have any bearing on the surface models; e.g., the land model can take full advantage of the greater number of grid cells in polar regions on lat-lon grids. This is particularly relevant for the surface mass balance {\color{blue}{(\textit{SMB}; the integrated sum of precipitation and runoff)}} of the Greenland Ice Sheet, which relies on hydrological processes represented in the land model.
 
-The SMB of the Greenland Ice Sheet (hereafter \textit{GrIS}) is determined by processes occurring over a range of scales that are difficult to represent in GCMs \cite{P2010CC}. GrIS precipitation is concentrated at the ice-sheet margins, where steep topographic slopes drive orographic precipitation. The truncated topography used by low resolution GCMs enables moisture to penetrate well into the GrIS interior, manifesting as a positive precipitation bias \cite{P2000GPC,VETAL2018TC}. GrIS ablation areas {\color{blue}{(marginal regions where the annual SMB is negative)}} are typically less than 100\,km wide and are confined to low-lying areas or regions with low precipitation. These narrow ablation zones are not fully resolved in low-resolution GCMs, and may further degrade the simulated SMB. For example, CESM, version 2.0 (CESM2) underestimates ablation in the northern GrIS, leading to unrealistic ice advance when run with an interactive ice sheet component \cite{LETAL2020JAMES}.
+The SMB of the Greenland Ice Sheet (hereafter \textit{GrIS}) is determined by processes occurring over a range of scales that are difficult to represent in GCMs \cite{P2010CC}. GrIS precipitation is concentrated at the ice-sheet margins, where steep topographic slopes drive orographic precipitation. The truncated topography used by low resolution GCMs enables moisture to penetrate well into the GrIS interior, manifesting as a positive precipitation bias {\color{blue}{in the interior}} \cite{P2000GPC,VETAL2018TC}. GrIS ablation areas {\color{blue}{(marginal regions where the annual SMB is negative)}} are typically less than 100\,km wide and are confined to low-lying areas or regions with low precipitation. These narrow ablation zones are not fully resolved in low-resolution GCMs, and may further degrade the simulated SMB. {\color{blue}{More recently, GCMs such as CESM and the NASA Goddard Institute for Space Studies GCM \cite{AETAL2019JGR}, have implemented an elevation class downscaling scheme for computing the SMB. The downscaling helps to resolve to these narrow ablation zones in GCMs \cite{SETAL2019TC}, but large SMB biases remain.}} For example, CESM, version 2.0 (CESM2) underestimates ablation in the northern GrIS, leading to unrealistic ice advance when run with an interactive ice sheet component \cite{LETAL2020JAMES}.
 
 Regional climate models (RCMs) are commonly relied upon to provide more accurate SMB estimates. The limited area domain used by RCMs permits the use of high-resolution grids capable of resolving SMB processes, and can skillfully simulate the GrIS SMB \cite{BETAL2004JGR,RETAL2012TC,VETAL2012TC,FETAL2013TC,METAL2017LTS,NETAL2018TC}. However, unlike GCMs, RCMs are not a freely evolving system, and the atmospheric state must be prescribed at the lateral boundaries of the model domain. The inability of the RCM solution to influence larger-scale dynamics outside the RCM domain (due to the prescribed boundary conditions) severely limits this approach from properly representing the role of the GrIS in the climate system. In addition, the boundary conditions are derived from a separate host model, which introduces inconsistencies due to differences in model design between the host model and the RCM.
 
@@ -208,26 +208,15 @@ This study compares the representation of Arctic regions using the SE and FV dyc
 
 \begin{figure}[t]
 \begin{center}
-%\begin{tabular}{cc}
          \includegraphics[width=100mm]{grid-uniform}
-         %\includegraphics[width=50mm]{grid-f19.pdf}&
-         %\includegraphics[width=50mm]{grid-f09.pdf}\\
-         %\includegraphics[width=50mm]{grid-ne30pg2.pdf}&
-         %\includegraphics[width=50mm]{grid-ne30pg3.pdf} \\
-%\end{tabular}
 \end{center}
-\caption{Computational grids for the $1^{\circ}-2^{\circ}$ {\color{blue}{lat-lon and quasi-uniform unstructured}} grids in this study. Grids names after Table~\ref{tbl:table1}, (a) $\tt f19$, (b) $\tt f09$, (c) $\tt ne30pg2$ and (d) $\tt ne30pg3$.}
+\caption{Computational grids for the $1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform unstructured grids in this study. Grids names after Table~\ref{tbl:table1}, (a) $2^{\circ}$ lat-lon grid ($\tt f19$), (b) $1^{\circ}$ lat-lon grid ($\tt f09$), (c) $1^{\circ}$ quasi-uniform unstructured grid with reduced physics resolution ($\tt ne30pg2$) and (d) $1^{\circ}$ quasi-uniform unstructured grid ($\tt ne30pg3$).}
 \label{fig:uni-grids}
 \end{figure}
 
 \begin{figure}[t]
 \begin{center}
-%\begin{tabular}{ccc}
          \includegraphics[width=140mm]{grid-varres.pdf}
-         %\includegraphics[width=40mm]{grid-ARCTIC.pdf}&
-         %\includegraphics[width=40mm]{grid-ARCTICGRIS.pdf}&
-         %\includegraphics[width=40mm]{grid-CONUS.pdf} \\
-%\end{tabular}
 \end{center}
 \caption{Variable-resolution grids available in CESM2.2, (a) $\tt Arctic$, (b) $\tt Arctic-GrIS$ and (c) $\tt CONUS$. Note what is shown is the element grid; the computational grid has $3\times3$ independent grid points per element.}
 \label{fig:vr-grids}
@@ -247,7 +236,7 @@ The FV dycore integrates the {\color{blue}{hydrostatic}} equations of motion usi
 
 \subsubsection{Spectral-element (SE) dynamical core}
 
-The SE dycore integrates the {\color{blue}{hydrostatic}} equations of motion using a high-order continuous Galerkin method \cite{TTI1997JCP,TF2010JCP}. The computational domain is a cubed-sphere grid tiled with quadrilateral elements (see Figure~\ref{fig:vr-grids}). Each element contains a fourth-order basis set in each horizontal direction, with the solution defined at the roots of the basis functions, the Gauss-Lobatto-Legendre quadrature points. This results in 16 nodal points per element, with 12 of the points lying on the (shared) element boundary. Communication between elements uses the direct stiffness summation \cite{canuto2007}, which applies a numerical flux to the element boundaries to reconcile overlapping nodal values and produce a continuous global basis set. 
+The SE dycore integrates the {\color{blue}{hydrostatic}} equations of motion using a high-order continuous Galerkin method \cite{TTI1997JCP,TF2010JCP}. The computational domain is a cubed-sphere grid ({\color{blue}{A cubed-sphere grid is obtained by projecting each face of a cube onto a sphere}}) tiled with quadrilateral elements (see Figure~\ref{fig:vr-grids}). Each element contains a fourth-order basis set in each horizontal direction, with the solution defined at the roots of the basis functions, the Gauss-Lobatto-Legendre quadrature points. This results in 16 nodal points per element, with 12 of the points lying on the (shared) element boundary. Communication between elements uses the direct stiffness summation \cite{canuto2007}, which applies a numerical flux to the element boundaries to reconcile overlapping nodal values and produce a continuous global basis set. 
 
 As with the FV dycore, the dynamics evolve in floating Lagrangian layers that are subsequently mapped to an Eulerian reference grid. A dry mass vertical coordinate was recently implemented for thermodynamic consistency with condensates \cite{LetAl2018JAMES}. The 2D dynamics have no implicit dissipation, and so hyperviscosity operators are applied to all prognostic variables to remove spurious numerical errors \cite{DetAl2012IJHPCA}. Laplacian damping is applied in the sponge layer.
 
@@ -268,7 +257,7 @@ Initial simulations with the SE dycore produced weaker shortwave cloud forcing r
 
 We evaluate model simulations on six different grids in this study (Table~\ref{tbl:table1}). The FV dycore is run with nominal $1^{\circ}$ and $2^{\circ}$ grid spacing, referred to as $\tt f09$ and $\tt f19$, respectively (Figure~\ref{fig:uni-grids}a,b). We also run the $1^{\circ}$ equivalent of the SE-CSLAM grid, referred to as $\tt ne30pg3$ (Figure~\ref{fig:uni-grids}d), where $ne$ refers to a grid with $ne \times ne$ quadrilaterial elements per cubed-sphere face, and $pg$ denotes that there are $pg \times pg$  control volumes per element for computing the physics. We run an additional $1^{\circ}$ SE-CSLAM simulation with the physical parameterizations computed on a grid with $2\times2$ control volumes per element, $\tt ne30pg2$ \cite<Figure~\ref{fig:uni-grids}c;>[note CSLAM is still run on the $3\times3$ control volume grid]{HETAL2019JAMESb}.
 
-Three VR meshes were developed for the CESM2.2 release to support grid refinement over the Arctic and the United States (Figure~\ref{fig:vr-grids}). This paper serves as the official documentation of these grids. The VR meshes were developed using the software package SQuadgen (\url{https://github.com/ClimateGlobalChange/squadgen}). The $\tt Arctic$ grid is a $1^{\circ}$ grid with $1/4^{\circ}$ regional refinement over the broader Arctic region. The $\tt Arctic-GrIS$ grid is identical to the $\tt Arctic$ grid, but with an additional patch covering the island of Greenland with $1/8^{\circ}$ resolution. The $\tt CONUS$ grid contains $1/8^{\circ}$ refinement over the United States, and $1^{\circ}$ everywhere else. The $\tt CONUS$ grid is not discussed any further in this paper; see \citeA{PETAL2020BAMS} for simulations with the $\tt CONUS$ grid.
+Three VR meshes were developed for the CESM2.2 release to support grid refinement over the Arctic and the United States (Figure~\ref{fig:vr-grids}). This paper serves as the official documentation of these grids. The VR meshes were developed using the software package SQuadgen (\url{https://github.com/ClimateGlobalChange/squadgen}). The $\tt Arctic$ grid is a $1^{\circ}$ grid with $1/4^{\circ}$ regional refinement over the broader Arctic region ({\color{blue}{when using degrees to describe the resolution of unstructured grids, degrees refers to degrees at the equator}}). The $\tt Arctic-GrIS$ grid is identical to the $\tt Arctic$ grid, but with an additional patch covering the island of Greenland with $1/8^{\circ}$ resolution. The $\tt CONUS$ grid contains $1/8^{\circ}$ refinement over the United States, and $1^{\circ}$ everywhere else. The $\tt CONUS$ grid is not discussed any further in this paper; see \citeA{PETAL2020BAMS} for simulations with the $\tt CONUS$ grid.
 
  \begin{table*}
  \centering
@@ -286,7 +275,7 @@ Three VR meshes were developed for the CESM2.2 release to support grid refinemen
    $\tt Arctic-GrIS$ & SE & 111 & 14 & 225 & {\color{blue}{40305.03}} & {\color{blue}{41036.67}} \\
  \hline
  \end{tabular}
-  \caption{Grids and dycores used in this study. $\Delta x_{\mathrm{eq}}$ is the average equatorial grid spacing, $\Delta x_{\mathrm{fine}}$ is the grid spacing in the refined region (if applicable), and $\Delta t_{\mathrm{phys}}$ is the physics time step. FV refers to the finite-volume dycore, SE the spectral-element dycore, and SE-CSLAM the spectral-element dycore with CSLAM tracer advection.  We use the $\tt ne30pg3$ grid for two runs with different values of $\Delta t_{\mathrm{phys}}$. {\color{blue}{The last columns provide the computational costs in core hours per simulated year (CHPSY). The costs are from single month runs using 25 nodes and 50 nodes on the Cheyenne supercomputer \cite{cheyenne}.}}}
+  \caption{Grids and dycores used in this study. $\Delta x_{\mathrm{eq}}$ is the average equatorial grid spacing, $\Delta x_{\mathrm{fine}}$ is the grid spacing in the refined region (if applicable), and $\Delta t_{\mathrm{phys}}$ is the physics time step. FV refers to the finite-volume dycore, SE the spectral-element dycore, and SE-CSLAM the spectral-element dycore with CSLAM tracer advection. {\color{blue}{The FV dycore uses lat-lon grids, whereas the SE and SE-CSLAM dycores run on unstructured grids.}} We use the $\tt ne30pg3$ grid for two runs with different values of $\Delta t_{\mathrm{phys}}$. {\color{blue}{The last columns provide the computational costs in core hours per simulated year (CHPSY). The costs are from single month runs using 25 nodes and 50 nodes on the Cheyenne supercomputer \cite{cheyenne}.}}}
  \label{tbl:table1}
  \end{table*}
 
@@ -312,7 +301,7 @@ CLM runs on the same grid as the atmosphere, and uses a downscaling technique to
 
 {\color{blue}{Changes in ice depth, not snow depth, count toward the SMB. Snow accumulation in each EC is limited to a depth of 10 m liquid water equivalent. Any snow above the 10 m cap contributes towards ice accumulation, and refreezing of liquid water within the snowpack is an additional source of ice. Surface ice melting (after melting of the overlying snow) yields a negative SMB.}} Integrating over all ECs, weighting by the area fractions, provides a more accurate SMB than would be found using the grid-cell mean elevation. For a more detailed description of how the SMB is computed in CESM, we refer the reader to \citeA{CISM1,SETAL2019TC,KETAL2020JAMES,Muntjewerf_EA_2021_coupling}.
 
-Since snow in the accumulation zone must reach the cap to simulate a positive SMB, the snow depths on the VR grids were spun up by forcing CLM in standalone mode, cycling over data from a 20-year $\tt Arctic$ $\tt FHIST$ simulation for about 500 years. The $1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform unstructured grids are initialized with the SMB from an existing $\tt f09$ spun-up initial condition.
+Since snow in the accumulation zone must reach the cap to simulate a positive SMB, the snow depths on the VR grids were spun up by forcing CLM in standalone mode, cycling over data from a 20-year $\tt Arctic$ $\tt FHIST$ simulation ({\color{blue}{with perpetual 1979 boundary conditions}}) for about 500 years. The $1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform unstructured grids are initialized with the SMB from an existing $\tt f09$ spun-up initial condition.
 
 \subsection{{\color{blue}{Validation}} Datasets}
 
@@ -331,7 +320,7 @@ In-situ SMB (snow pit and ice cores) and {\color{blue}{remote sensing datasets (
    \hline
    ERA5 & 1979-1998 & $1/4^{\circ}$ & \citeA{ERA5} \\
    CERES-EBAF ED4.1 & 2003-2020 & $1^{\circ}$ & \citeA{CERES-EBAF} \\
-   CALIPSO-GOCCP & 2006-2017 & $1^{\circ}$ & \citeA{CALIPSO-GOCCP} \\
+   CALIPSO-GOCCP & 2006-2017 & {\color{blue}{$2^{\circ}$}} & \citeA{CALIPSO-GOCCP} \\
    RACMO2.3 & 1979-1998 & 11 km & \citeA{NETAL2015TC} \\
    RACMO2.3p2 & 1979-1998 & 5.5 km & \citeA{NETAL2019SCIENCE} \\
  \hline
@@ -348,7 +337,7 @@ We seek to integrate SMB components over a GrIS ice mask and to diagnose their c
 \begin{center}
          \includegraphics[width=100mm]{temp_grisres.pdf}
 \end{center}
-\caption{The spatial properties of the GrIS as represented by different grids in this study. (Left) GrIS area error, computed as the relative differences from a 4-km dataset used to create the CESM ice masks, (right) approximate average grid spacing over GrIS.}
+\caption{The spatial properties of the GrIS as represented by different grids in this study. (Left) approximate average grid spacing over GrIS, (right) GrIS area error, computed as the relative differences from the reference dataset described in the text. {\color{blue}{Also included are the two RACMO grids used for validation (see Table~\ref{tbl:table2})}}.}
 \label{fig:grisdx}
 \end{figure}
 
@@ -356,7 +345,7 @@ We have taken a common-ice-mask approach by mapping all model fields to the lowe
 
 The SMB is expressed in a form that is agnostic of water phase, a total water mass balance, to facilitate comparisons across different grids with different ice masks and to increase consistency with the variables available in the RACMO datasets. The SMB for total water can be expressed as:
 \begin{equation}
-SMB = accumulation + runoff + evaporation + sublimation, \label{eq:SMB}
+\tt SMB = accumulation + runoff + evaporation + sublimation, \label{eq:SMB}
 \end{equation}
 where all terms have consistent sign conventions (positive values contribute mass, and negative values reduce mass). The accumulation source term refers to the combined solid and liquid precipitation, runoff refers to the liquid water sink, and evaporation/sublimation is the vapor sink. Since the runoff term aggregates many processes, we isolate the melting contribution by also tracking the combined melt of snow and ice. 
 
@@ -376,8 +365,7 @@ The different error characteristics of the two methods are used to {\color{blue}
 
 \subsection{Tropospheric temperatures}
 
-Before delving into the simulated Arctic climate conditions, we assess the global mean differences between the various grids and dycores. Figure~\ref{fig:dT-lores} shows 1979-1998 annual mean, zonal mean height plots expressed as differences between {\color{blue}{$1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform unstructured}} grids and dycores. The $\tt f09$ grid is warmer than the $\tt f19$ grid, primarily in the mid-to-high latitudes throughout the depth of the troposphere. This is a common response to increasing horizontal resolution in GCMs \cite{PS2002CD,RETAL2006JC}.
-\citeA{HK2020QJRMS} have shown that this occurs in CAM due to higher resolved vertical velocities which, in turn, generate more condensational heating in the CLUBB macrophyiscs. The right panel in Figure~\ref{fig:dT-lores}a supports this interpretation, showing an increase in the climatological CLUBB heating at all latitudes in the $\tt f09$ grid, but with the largest increase in the mid-latitudes. 
+Before delving into the simulated Arctic climate conditions, we assess the global mean differences between the various grids and dycores. Figure~\ref{fig:dT-lores} shows 1979-1998 annual mean, zonal mean height plots {\color{blue}{of temperature}}, expressed as differences between {\color{blue}{$1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform unstructured}} grids and dycores. The $\tt f09$ grid is warmer than the $\tt f19$ grid, primarily in the mid-to-high latitudes throughout the depth of the troposphere. This is a common response to increasing horizontal resolution in GCMs \cite{PS2002CD,RETAL2006JC}. \citeA{HK2020QJRMS} have shown that this occurs in CAM due to higher resolved vertical velocities which, in turn, generate more condensational heating in the CLUBB macrophyiscs. The right panel in Figure~\ref{fig:dT-lores}a supports this interpretation, showing an increase in the climatological CLUBB heating at all latitudes in the $\tt f09$ grid, but with the largest increase in the mid-latitudes.
 
 \begin{figure}[t]
 \begin{center}
@@ -390,6 +378,8 @@ Before delving into the simulated Arctic climate conditions, we assess the globa
 As the SE dycore is less diffusive than the FV dycore, the resolved vertical velocities are larger in the SE dycore, and so the $\tt ne30pg3$ troposphere is modestly warmer than $\tt f09$ (Figure~\ref{fig:dT-lores}b). The stratosphere responds differently, with $\tt ne30pg3$ much cooler than $\tt f09$ in the mid-to-high latitudes. Figure~\ref{fig:dT-lores}c also shows small temperature differences between $\tt ne30pg3$ and $\tt ne30pg2$, with  $\tt ne30pg3$ slightly warmer near the tropopause at high latitudes. This is consistent with the similar climates found for these two grids by \citeA{HETAL2019JAMESb}.
 
 Comparing the VR grids to the {\color{blue}{lat-lon and quasi-uniform}} grids is complicated because we simultaneously increase the resolution and reduce the physics time-step, both of which influence the solution \cite{W2008TELLUS}. We therefore run an additional $\tt ne30pg3$ simulation with the shorter physics time step used in the $\tt Arctic$ grid (450~s), referred to as $\tt ne30pg3^{*}$ (Table~\ref{tbl:table1}). Figure~\ref{fig:dT-hires}a shows the difference between $\tt ne30pg3^{*}$ and $\tt ne30pg3$ for climatological summer temperatures in zonal-mean height space. The troposphere is warmer with the reduced time step, and the mechanism is similar in that the shorter time step increases resolved vertical velocities (not shown) and CLUBB heating (right panel in Figure~\ref{fig:dT-hires}a). Figure~\ref{fig:dT-hires}b shows the difference in climatological summer temperature between the $\tt Arctic$ grid and the $\tt ne30pg3^{*}$ grid.  With the same physics time step, the greater condensational heating and warmer temperatures are confined to the refined Arctic region.
+
+{\color{blue}{We note that there is not perfect alignment of the CLUBB heating anomalies and the temperature anomalies in Figures~\ref{fig:dT-lores} $\&$ \ref{fig:dT-hires}. This leaves some uncertainty as to whether CLUBB is solely responsible for the temperature anomalies caused by changing grid resolution or dycore, as asserted above. In the deep Tropics, gravity waves are expected to propagate temperature anomalies far from their heating source, and so the misalignment is less troublesome for this region. In the mid-latitudes, we speculate that this misalignment is due to averaging the CLUBB heating over all time. \citeA{HK2020QJRMS} have shown that only the CLUBB heating coinciding with upward resolved vertical velocities tends to align spatially with the temperature response, whereas heating anomalies associated with descending grid columns had no alignment with the temperature response. Therefore the average over all time will dilute the heating signal, and potentially lead to misalignments between the heating rates and temperature anomalies.}}
 
 Figure~\ref{fig:dT-hires}c shows that the $\tt Arctic-GrIS$ grid is much warmer than the $\tt Arctic$ grid in the Arctic summer. This may be due, in part, to the shorter physics time step, but the temperature response is too large to be explained by enhanced condensational heating from CLUBB alone. This summer warming appears to be a result of variations in the stationary wave pattern, with a swath of anomalous southerly winds to the west of Greenland (not shown). This dynamic response is interesting, because other than the physics time step, the only difference between the $\tt Arctic-GrIS$ and $\tt Arctic$ runs is the doubling of resolution over Greenland. This behavior will be explored further in a future study.
 
@@ -518,7 +508,7 @@ The bottom panel of Figure~\ref{fig:prect} presents the biases in the combined i
 \label{fig:ztrans}
 \end{figure}
 
-The transects in Figure~\ref{fig:ztrans} show that the ice sheet surface on the coarse grids is not systematically lower than the true surface in ablation zones. Rather, the smoothing and flattening of the raw topography, necessary to prevent the model from exciting grid-scale numerical modes, causes the lower-elevation ablation zones to extend beyond the true ice sheet margin, causing the modeled ablation zones (which must reside within the ice sheet mask) to be elevated relative to the actual ice surface. The $\tt f19$ grid has both the smoothest topography and the flattest ice sheet since its dynamics are coarsest, whereas the $\tt f09$, $\tt ne30pg2$ and $\tt ne30pg3$ grids have similar dynamical resolution and use identical smoothing. This suggests that coarser models will tend to elevate the ablation zones {\color{blue}{relative to where they should be, which may be expected to cause anomalous (adiabatic) cooling and}} depressed melt rates, but this is opposite the melt bias that occurs in the coarse grid simulations.
+The transects in Figure~\ref{fig:ztrans} show that the ice sheet surface on the coarse grids is not systematically lower than the true surface in ablation zones. Rather, the smoothing and flattening of the raw topography, necessary to prevent the model from exciting grid-scale numerical modes, causes the lower-elevation ablation zones to extend beyond the true ice sheet margin, causing the modeled ablation zones (which must reside within the ice sheet mask) to be elevated relative to the actual ice surface. The $\tt f19$ grid has both the smoothest topography and the flattest ice sheet since its dynamics are coarsest, whereas the $\tt f09$, $\tt ne30pg2$ and $\tt ne30pg3$ grids have similar dynamical resolution and use identical smoothing. This suggests that coarser models will tend to elevate the ablation zones {\color{blue}{relative to where they should be, which may be expected to cause anomalous (adiabatic) cooling and}} depressed melt rates, but this is opposite the melt bias that occurs in the coarse grid simulations. {\color{blue}{Also, the EC downscaling should be able to correct for situations where model ice surface is elevated relative to the true ice surface, although for very large elevation differences/errors the EC scheme may not be adequate}}.
 
 Figure~\ref{fig:ztrans} also shows the ice margin boundary, illustrating that the ablation zone lies in a narrow horizontal band where the ice sheet rapidly plunges to sea-level. Due to this abrupt transition, coarse grids will commonly represent the ablation zone with grid cells containing mixtures of ice-covered and ice-free regions. We hypothesize that coarser models have larger melt biases because summer melting is confined to these mixed ice/land/ocean grid cells. CLM deals with land heterogeneity in a complex and sophisticated manner, but CAM only sees the homogenized state after {\color{blue}{area}} averaging over the sub-grid mixture. Thus, warm ice-free land patches in a grid cell may unduly influence the climate over the entire grid cell, causing a warm bias over the ice-covered patch {\color{blue}{and more melting}}.
 
@@ -534,9 +524,9 @@ Figure~\ref{fig:bias} shows the mean melt bias, relative to both RACMO datasets,
 \label{fig:bias}
 \end{figure}
 
-{\color{blue}{Another potential factor in explaining the differences across the various grids and dycores is the surface albedo. Bare ice has a lower albedo than snow, so it's reasonable to speculate whether the large melt biases in the coarse grid simulations are in part due to more frequent bare ice exposure. One logical pathway to more bare ice exposure is related to the precipitation and cloud biases. As the coarser models accumulate too much precipitation in the GrIS interior, the coastal ice margins receive too little snow, which can be more easily melted away to expose the underlying glacial ice. Figure~\ref{fig:alb} shows maps of summer albedo biases in the simulations, relative to the RACMO2.3p2 and CERES-EBAF datasets. The surface albedo is diagnosed from the incident and net shortwave radiative fluxes at the surface. The lat-lon and quasi-uniform grids all have anomalously low albedo around the coasts in the southeast and northwest regions of the GrIS, which coincides with regions of anomalously low cloud cover and precipitation. In the VR simulations, the low albedo biases are alleviated to a large extent.
+{\color{blue}{Another potential factor in explaining the melt differences across the grids and dycores is the surface albedo. Bare ice has a lower albedo than snow, so it's reasonable to speculate whether the large melt biases in the coarse grid simulations are in part due to more frequent bare ice exposure. One reasonable pathway to more bare ice exposure is related to the precipitation and cloud biases. As the lat-lon and quasi-uniform grids accumulate too much precipitation in the GrIS interior, it's possible the coastal ice margins receive too little snow, which may be more easily melted away to expose the underlying glacial ice. The top row of Figure~\ref{fig:alb} shows the summer snow cover bias relative to ERA5. There is no indication that the coastal regions have lower snow fractions, and more bare ice exposure, compared with the VR runs. In southeast Greenland, the coarse runs have anomalously high snow cover relative to the VR runs. In southwest and central-west Greenland, the snow cover is anomalously low, but arguably no more so than occurs in the VR runs. And in combining these results wih the precipitation biases (Figure~\ref{fig:bias}), there just isn't much support for a reduction in snowfall and snow cover around the coastal margins in the coarser runs.
 
-In light of these albedo results, one may interpret Figure~\ref{fig:bias} differently. That there are larger melt biases for grid cells with only only partial ice cover, may have less to do with the partial ice cover and more to do with the enhanced bare ice exposure in the coarser grids. Further experimentation is required to tease out the relative contributions of these two processes.}}
+The middle and bottom rows of Figure~\ref{fig:alb} show maps of summer albedo biases in the simulations, relative to the RACMO2.3p2 and the processed MODIS albedo dataset of \citeA{MODIS}. The model surface albedo is diagnosed from the incident and net shortwave radiative fluxes at the surface. While RACMO2.3p2 indicates that the albedo near the southwest/southeast coastal margins is lower in the lat-lon and quasi-uniform grids relative to the VR grids, the MODIS dataset does not show that the VR grids have a substantially different albedo from the coarse grids. We do observe a persistent positive albedo bias in the northwest in all grids, in both validation dataset, which is consistent with a low melt bias in that region \cite{LETAL2020JAMES}.}}
 
 \begin{figure}[t]
 \begin{center}
@@ -544,7 +534,7 @@ In light of these albedo results, one may interpret Figure~\ref{fig:bias} differ
          \includegraphics[width=130mm]{temp_contours_diffALB.pdf}
 \end{tabular}
 \end{center}
-\caption{1979-1998 northern hemisphere summer albedo bias (fraction), computed as the difference (top) from RACMO2.3p2, and (bottom) CERES-EBAF dataset. RACMO2.3p2 differences are found by mapping the model output to the individual model grids, and differences in the bottom panel are computed after mapping the individual model grids to the CERES-EBAF $1^{\circ}$ grid. Note that the averaging period for CERES-EBAF panels are 2003-2020, which is different from the averaging period for the model results.}
+\caption{(Top) 1979-1998 bias in northern hemisphere summer snow cover (fraction) relative to ERA4. (Middle and bottom) 1979-1998 summer albedo bias (fraction), computed as the difference (middle) from RACMO2.3p2, and (bottom) the MODIS dataset of \citeA{MODIS}. As all observational datasets in this plot are on high-resolution grids, they've all been mapped to the individual model grids, before taking differences.}
 \label{fig:alb}
 \end{figure}
 
@@ -574,7 +564,7 @@ At the regional level, there is a halo of negative cloudiness bias around the oc
 
 We integrated the primary source and sink terms of the SMB equation over the GrIS for each of the six grids. The {\color{blue}{$1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform}} grids have large positive accumulation biases because they fail to resolve orographic precipitation. The quasi-uniform SE grids have larger accumulation biases, suggesting that the FV grids are more skillful for precipitation due to finer resolution over Greenland, and despite a polar filter. The VR grids have the most accurate accumulation rates of all the grids. The primary mass sink term of the GrIS, ice/snow melt, has similar biases; the coarse grids melt too much, with a greater bias for quasi-uniform SE grids. In general, on coarse grids, errors in the individual SMB terms are larger than the errors in the SMB itself, due to compensating errors. This observation serves as a precaution; projecting mass-loss from a glacier or ice sheet cannot be reliable if the processes representing the components of the SMB are incorrect from the start, even if the total SMB has the right magnitude.
 
-The $\tt Arctic-GrIS$ grid has the warmest summer lower troposphere of all grids, yet it has less melting than the quasi-uniform resolution SE grids. This suggests that grid resolution is somehow contributing to the melt biases in coarse grids, in a way that is not obvious from the large-scale dynamics. We propose a mechanism: coarse grids represent ablation zones using grid cells with mixed surface types, ice-covered and ice-free. The warmer ice-free patches may largely determine the mean state, leading to a warm bias over the ice-covered patches of the grid cell. This mechanism is supported by analysis of melt biases binned by grid-cell ice fraction.
+The $\tt Arctic-GrIS$ grid has the warmest summer lower troposphere of all grids, yet it has less melting than the quasi-uniform resolution SE grids. This suggests that grid resolution is somehow contributing to the melt biases in coarse grids, in a way that is not obvious from the large-scale dynamics. We propose a mechanism: coarse grids represent ablation zones using grid cells with mixed surface types, ice-covered and ice-free. The warmer ice-free patches may largely determine the mean state, leading to a warm bias over the ice-covered patches of the grid cell. This mechanism is supported by analysis of melt biases binned by grid-cell ice fraction, {\color{blue}{although further testing of this hypothesis is needed.}}
 
 The $\tt Arctic$ grid substantially improves the simulated Arctic climate, including precipitation extremes and the GrIS SMB, compared to the {\color{blue}{$1^{\circ}-2^{\circ}$ lat-lon and quasi-uniform}} grids. The $\tt Arctic-GrIS$ grid has the most realistic cloud and precipitation fields, but its summer temperatures are too warm. The $1^{\circ}$ FV model gives a surprisingly realistic SMB, likely due to the relatively fine resolution of Greenland on lat-lon grids (but perhaps also because it is the most heavily tuned model configuration in CESM). In particular, a greater number of grid cells in the ablation zone reduces the influence of mixed ice-covered/ice-free grid cells that represent ablation poorly on the other {\color{blue}{lat-lon and quasi-}}uniform grids.
 
@@ -723,7 +713,7 @@ We are  working to develop a configuration of the $\tt Arctic$ grid that is full
 % A: Here Is Appendix Title
 %
 \appendix
-\section{Details on spectra-element dynamical core improvements since the CESM2.0 release}\label{sec:a1}
+\section{Details on {\color{blue}{spectral}}-element dynamical core improvements since the CESM2.0 release}\label{sec:a1}
 Since the CESM2.0 release of the spectral-element dynamical core documented in \citeA{LetAl2018JAMES} some important algorithmic improvements have been implemented and released with CESM2.2. These pertain mainly to the flow over orography that, for the spectral-element dynamical core, can lead to noise aligned with the element boundaries \cite{HL2018MWR}.
 \subsection{Reference profiles}
 Significant improvement in removing noise for flow over orography can be achieved by using reference profiles for temperature and pressure
@@ -731,7 +721,7 @@ Significant improvement in removing noise for flow over orography can be achieve
   T^{(ref)}&=&T_0+T_1 \Pi^{(ref)},\\
   p_s^{(ref)}&=&p_0\exp{\left(-\frac{\Phi_s}{R^{(d)}T_{ref}}\right)},
 \end{eqnarray}
- \cite{SJ1991QJRMS} where $g$ gravity, $T_1=\Gamma_0 T_{ref} c_p^{(d)}/g\approx 192K$ with standard lapse rate $\Gamma_0\equiv 6.5K/km$ and $T_0\equiv T_{ref}-T_1\approx 97K$; $T_{ref}=288K$ ($c_p^{(d)}$ specific heat of dry air at constant pressure; $R^{(d)}$ gas constant for dry air), and $\Phi_s$ surface geopotential. The reference Exner function is
+ \cite{SJ1991QJRMS} where $T_1=\Gamma_0 T_{ref} c_p^{(d)}/g\approx 192K$, {\color{blue}{with gravity $g$,}} and standard lapse rate $\Gamma_0\equiv 6.5K/km$ and $T_0\equiv T_{ref}-T_1\approx 97K$; $T_{ref}=288K$ ($c_p^{(d)}$ specific heat of dry air at constant pressure; $R^{(d)}$ gas constant for dry air), and $\Phi_s$ {\color{blue}{is the}} surface geopotential. The reference Exner function is
 \begin{equation}
    \Pi^{(ref)}=\left( \frac{p^{(ref)}}{p_0}\right)^{\kappa}
 \end{equation}
@@ -764,6 +754,12 @@ where the Exner pressure is
 \begin{equation}
     \Pi\equiv \left( \frac{p}{p_0}\right)^{\kappa}.
 \end{equation}
+{\color{blue}{and virtual temperature is
+\begin{equation}
+T_v =T\left( \frac{1+\frac{1}{\epsilon}m^{(wv)}}{\sum_{\ell \in \mathcal{L}_{all}}m^{(\ell)}}\right),\label{eq:tv}
+\end{equation}
+where $m^{(\ell)}$ is dry mixing ratio of component of moist air $\ell$; $\mathcal{L}_{all}$ is the set of all components of moist air and, in particular, $'wv'$ is water vapor.}}
+
 The derivation showing that (\ref{eq:pgf}) and (\ref{eq:pgf2}) are equivalent is {\color{blue}{given}} here:
 \begin{eqnarray*}
 c_p^{(d)}\theta_v\nabla_{\eta }\Pi &=& c_p^{(d)}\theta_v\nabla_{\eta }\left( \frac{p}{p_0}\right)^{\kappa},\\
@@ -774,7 +770,7 @@ c_p^{(d)}\theta_v\nabla_{\eta }\Pi &=& c_p^{(d)}\theta_v\nabla_{\eta }\left( \fr
 &=& \frac{R^{(d)}T_v}{p} \nabla_{\eta }p,\\
 &=& \frac{1}{\rho} \nabla_{\eta }p.
 \end{eqnarray*}
-Using the reference states from \cite{SJ1991QJRMS},
+{\color{blue}{where virtual potential temperature is $T_v/\Pi$.}} Using the reference states from \cite{SJ1991QJRMS},
 \begin{eqnarray}
   \overline{T}&=&T_0+T_1 \Pi,\\
   \overline{\theta}&=&{T_0}/\Pi+T_1,
