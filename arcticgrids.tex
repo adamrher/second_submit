@@ -305,7 +305,7 @@ Since snow in the accumulation zone must reach the cap to simulate a positive SM
 
 \subsection{{\color{blue}{Validation}} Datasets}
 
-We use several {\color{blue}{validation}} datasets (Table~\ref{tbl:table2}) to assess the performance of the simulations. {\color{blue}{The ERA5 reanalysis product \cite{ERA5} is used for validating the large-scale circulation and extreme precipitation events. Clouds and radiation fields are validated using remote sensing products, the CERES-EBAF ED4.1 \cite{CERES-EBAF} and the CALIPSO-GOCCP \cite{CALIPSO-GOCCP} datasets, respectively.}}
+We use several {\color{blue}{validation}} datasets (Table~\ref{tbl:table2}) to assess the performance of the simulations. {\color{blue}{The ERA5 reanalysis product \cite{ERA5} is used for validating the large-scale circulation and extreme precipitation events. Clouds and radiation fields are validated using remote sensing products, the CERES-EBAF ED4.1 \cite{CERES-EBAF} and the CALIPSO-GOCCP \cite{CALIPSO-GOCCP} datasets, respectively. We also utilize a MODIS GrIS surface albedo product, mapped to a 25 km regional climate model grid \cite{MODIS}.}}
 
 SMB datasets are gathered from multiple sources. RACMO, version 2.3 11km \cite<RACMO23;>{NETAL2015TC} and version 2.3p2 5.5km \cite<RACMO2.3p2;>{NETAL2018TC,NETAL2019SCIENCE} are RCM simulations targeting Greenland, forced by ERA renalyses products at the domain's lateral boundaries. The RACMO simulations have been shown to perform skillfully against observations and are often used as modeling targets \cite<e.g.,>{LIVVkit,KETAL2020JAMES}. {\color{blue}{The RACMO datasets are used along with the CERES-EBAF product to validate the radiative fluxes around Greenland.}}
 
@@ -321,6 +321,7 @@ In-situ SMB (snow pit and ice cores) and {\color{blue}{remote sensing datasets (
    ERA5 & 1979-1998 & $1/4^{\circ}$ & \citeA{ERA5} \\
    CERES-EBAF ED4.1 & 2003-2020 & $1^{\circ}$ & \citeA{CERES-EBAF} \\
    CALIPSO-GOCCP & 2006-2017 & {\color{blue}{$2^{\circ}$}} & \citeA{CALIPSO-GOCCP} \\
+   {\color{blue}{MODIS-MAR}} & {\color{blue}{2000-2013}} & {\color{blue}{25 km}} & {\color{blue}{\citeA{MODIS}}}\\
    RACMO2.3 & 1979-1998 & 11 km & \citeA{NETAL2015TC} \\
    RACMO2.3p2 & 1979-1998 & 5.5 km & \citeA{NETAL2019SCIENCE} \\
  \hline
@@ -534,7 +535,7 @@ The middle and bottom rows of Figure~\ref{fig:alb} show maps of summer albedo bi
          \includegraphics[width=130mm]{temp_contours_diffALB.pdf}
 \end{tabular}
 \end{center}
-\caption{(Top) 1979-1998 bias in northern hemisphere summer snow cover (fraction) relative to ERA4. (Middle and bottom) 1979-1998 summer albedo bias (fraction), computed as the difference (middle) from RACMO2.3p2, and (bottom) the MODIS dataset of \citeA{MODIS}. As all observational datasets in this plot are on high-resolution grids, they've all been mapped to the individual model grids, before taking differences.}
+\caption{(Top) 1979-1998 bias in northern hemisphere summer snow cover (fraction) relative to ERA4. (Middle and bottom) 1979-1998 summer albedo bias (fraction), computed as the difference (middle) from RACMO2.3p2, and (bottom) the MODIS dataset of \citeA{MODIS}. All model and validation data have been mapped to the $\tt f19$ grid to facilitate the comparison across the different grids.}
 \label{fig:alb}
 \end{figure}
 
