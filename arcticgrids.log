@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2022 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2022 19:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2316,6 +2316,18 @@ Overfull \hbox (11.93242pt too wide) in paragraph at lines 308--309
  []
 
 
+Overfull \hbox (0.61284pt too wide) in paragraph at lines 308--309
+\OT1/cmr/m/n/10 the CALIPSO-GOCCP []Chepfer et al.[], 2010) datasets, re-spec-t
+ively. We also uti-lize a 
+ []
+
+
+Overfull \hbox (2.4741pt too wide) in paragraph at lines 308--309
+\OT1/cmr/m/n/10 MODIS GrIS sur-face albedo prod-uct, mapped to a 25 km re-giona
+l cli-mate model grid 
+ []
+
+
 Overfull \hbox (51.07129pt too wide) in paragraph at lines 310--311
 []\OT1/cmr/m/n/10 SMB datasets are gath-ered from mul-ti-ple sources. RACMO, ve
 r-sion 2.3 11km []RACMO23; 
@@ -2400,49 +2412,49 @@ d the lack of in-for-ma-tion added
  []
 
 
-Overfull \hbox (11.33504pt too wide) in paragraph at lines 334--335
+Overfull \hbox (11.33504pt too wide) in paragraph at lines 335--336
 []\OT1/cmr/m/n/10 We seek to in-te-grate SMB com-po-nents over a GrIS ice mask 
 and to di-ag-nose their 
  []
 
 
-Overfull \hbox (1.08505pt too wide) in paragraph at lines 334--335
+Overfull \hbox (1.08505pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 con-tri-bu-tions to the GrIS mass bud-get. How-ever, the ice ma
 sks vary across the grids, 
  []
 
 
-Overfull \hbox (9.599pt too wide) in paragraph at lines 334--335
+Overfull \hbox (9.599pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 es-pe-cially in com-par-i-son to the RACMO3.2 ice mask, whose t
 o-tal area is about $3%$ less 
  []
 
 
-Overfull \hbox (10.2796pt too wide) in paragraph at lines 334--335
+Overfull \hbox (10.2796pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 than that of the ref-er-ence dataset ([]i.e., the GrIS ini-tial
  con-di-tions in CISM;[] Fig-ure 3[]b). 
  []
 
 
-Overfull \hbox (30.65459pt too wide) in paragraph at lines 334--335
+Overfull \hbox (30.65459pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 CLM's dataset cre-ation tool gen-er-ates the model ice mask by 
 map-ping the ref-er-ence dataset 
  []
 
 
-Overfull \hbox (12.73796pt too wide) in paragraph at lines 334--335
+Overfull \hbox (12.73796pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 to the tar-get grid us-ing the Earth Sys-tem Mod-el-ing Frame-w
 ork (ESMF) first-order con- 
  []
 
 
-Overfull \hbox (2.4046pt too wide) in paragraph at lines 334--335
+Overfull \hbox (2.4046pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 ser-va-tive remap-ping al-go-rithm []Team et al.[], 2021). The 
 fig-ure sug-gests that the map- 
  []
 
 
-Overfull \hbox (4.71004pt too wide) in paragraph at lines 334--335
+Overfull \hbox (4.71004pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 ping er-rors are less than $1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 
 5%$ across the CESM2.2 grids. The area er-rors in Fig-ure 3[]b 
  []
@@ -2454,471 +2466,471 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <temp_grisres.pdf, id=70, 540.43054pt x 282.30408pt>
 File: temp_grisres.pdf Graphic file (type pdf)
 <use temp_grisres.pdf>
-Package pdftex.def Info: temp_grisres.pdf  used on input line 338.
+Package pdftex.def Info: temp_grisres.pdf  used on input line 339.
 (pdftex.def)             Requested size: 284.52756pt x 148.63399pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 []\OT1/cmr/bx/n/9 Figure  3. \OT1/cmr/m/n/9 The spa-tial prop-er-ties of the Gr
 IS as rep-re-sented by dif-fer-ent grids in this study.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 \OT1/cmr/m/n/9 (Left) ap-prox-i-mate av-er-age grid spac-ing over GrIS, (right)
  GrIS area er-ror, com-puted as the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 \OT1/cmr/m/n/9 rel-a-tive dif-fer-ences from the ref-er-ence dataset de-scribed
  in the text. []Also in-cluded are the two
  []
 
 
-Overfull \hbox (0.65456pt too wide) in paragraph at lines 344--345
+Overfull \hbox (0.65456pt too wide) in paragraph at lines 345--346
 []\OT1/cmr/m/n/10 We have taken a common-ice-mask ap-proach by map-ping all mod
 el fields to the 
  []
 
 
-Overfull \hbox (7.48727pt too wide) in paragraph at lines 344--345
+Overfull \hbox (7.48727pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 lowest-resolution grids, i.e., the $\OT1/cmtt/m/n/10 f19$ \OT1/
 cmr/m/n/10 and $\OT1/cmtt/m/n/10 ne30pg2$ \OT1/cmr/m/n/10 grids, and in-te-grat
 -ing over these low- 
  []
 
 
-Overfull \hbox (7.93227pt too wide) in paragraph at lines 344--345
+Overfull \hbox (7.93227pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 resolution ice masks. The use of low-resolution com-mon ice mas
 ks is a con-ser-va-tive de- 
  []
 
 
-Overfull \hbox (4.3212pt too wide) in paragraph at lines 344--345
+Overfull \hbox (4.3212pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 ci-sion, and is jus-ti-fied be-cause we seek to use first-order
  remap-ping al-go-rithms to map 
  []
 
 
-Overfull \hbox (17.59903pt too wide) in paragraph at lines 344--345
+Overfull \hbox (17.59903pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 fields to the com-mon ice mask, which is not gen-er-ally re-li-
 able when map-ping to a higher- 
  []
 
 
-Overfull \hbox (20.09904pt too wide) in paragraph at lines 344--345
+Overfull \hbox (20.09904pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 resolution grid than the source grid. We use two remap-ping al-
 go-rithms: ESMF first-order 
  []
 
 
-Overfull \hbox (5.79349pt too wide) in paragraph at lines 344--345
+Overfull \hbox (5.79349pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 con-ser-va-tive and the Tem-pestRemap []Ullrich & Tay-lor, 2015
 ) high-order mono-tone al- 
  []
 
 
-Overfull \hbox (3.29346pt too wide) in paragraph at lines 344--345
+Overfull \hbox (3.29346pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 go-rithm. Since map-ping er-rors are sen-si-tive to grid type, 
 we eval-u-ate all quan-ti-ties on 
  []
 
 
-Overfull \hbox (7.37624pt too wide) in paragraph at lines 344--345
+Overfull \hbox (7.37624pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 both com-mon ice masks, the $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n
 /10 and $\OT1/cmtt/m/n/10 ne30pg2$ \OT1/cmr/m/n/10 masks. Thus, we eval-u-ate a
 n in-te-grated 
  []
 
 
-Overfull \hbox (8.73792pt too wide) in paragraph at lines 344--345
+Overfull \hbox (8.73792pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 quan-tity on a given grid up to four times to es-ti-mate the un
 -cer-tainty due to dif-fer-ences 
  []
 
 
-Overfull \hbox (15.93225pt too wide) in paragraph at lines 346--347
+Overfull \hbox (15.93225pt too wide) in paragraph at lines 347--348
 []\OT1/cmr/m/n/10 The SMB is ex-pressed in a form that is ag-nos-tic of wa-ter 
 phase, a to-tal wa-ter mass 
  []
 
 
-Overfull \hbox (4.82123pt too wide) in paragraph at lines 346--347
+Overfull \hbox (4.82123pt too wide) in paragraph at lines 347--348
 \OT1/cmr/m/n/10 bal-ance, to fa-cil-i-tate com-par-isons across dif-fer-ent gri
 ds with dif-fer-ent ice masks and to 
  []
 
 
-Overfull \hbox (11.09898pt too wide) in paragraph at lines 346--347
+Overfull \hbox (11.09898pt too wide) in paragraph at lines 347--348
 \OT1/cmr/m/n/10 in-crease con-sis-tency with the vari-ables avail-able in the R
 ACMO datasets. The SMB for 
  []
 
 
-Overfull \hbox (3.48785pt too wide) in paragraph at lines 349--351
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./temp_grisres.pdf>]
+Overfull \hbox (3.48785pt too wide) in paragraph at lines 350--352
 \OT1/cmr/m/n/10 where all terms have con-sis-tent sign con-ven-tions (pos-i-tiv
 e val-ues con-tribute mass, and 
  []
 
 
-Overfull \hbox (17.54341pt too wide) in paragraph at lines 349--351
+Overfull \hbox (17.54341pt too wide) in paragraph at lines 350--352
 \OT1/cmr/m/n/10 neg-a-tive val-ues re-duce mass). The ac-cu-mu-la-tion source t
 erm refers to the com-bined solid 
  []
 
 
-Overfull \hbox (27.40477pt too wide) in paragraph at lines 349--351
+Overfull \hbox (27.40477pt too wide) in paragraph at lines 350--352
 \OT1/cmr/m/n/10 and liq-uid pre-cip-i-ta-tion, runoff refers to the liq-uid wa-
 ter sink, and evap-o-ra-tion/sublimation 
  []
 
 
-Overfull \hbox (10.9323pt too wide) in paragraph at lines 349--351
+Overfull \hbox (10.9323pt too wide) in paragraph at lines 350--352
 \OT1/cmr/m/n/10 is the va-por sink. Since the runoff term ag-gre-gates many pro
 -cesses, we iso-late the melt- 
  []
 
-[11 <./temp_grisres.pdf>]
-Overfull \hbox (7.90459pt too wide) in paragraph at lines 352--353
+
+Overfull \hbox (7.90459pt too wide) in paragraph at lines 353--354
 []\OT1/cmr/m/n/10 The to-tal wa-ter SMB (equa-tion 1[]) is dif-fer-ent from the
  SMB in-ter-nally com-puted 
  []
 
 
-Overfull \hbox (13.07115pt too wide) in paragraph at lines 352--353
+Overfull \hbox (13.07115pt too wide) in paragraph at lines 353--354
 \OT1/cmr/m/n/10 by CLM and de-scribed in sec-tion 2.5[], which only tracks ice 
 mass. We do not use CLM's 
  []
 
 
-Overfull \hbox (10.09901pt too wide) in paragraph at lines 352--353
+Overfull \hbox (10.09901pt too wide) in paragraph at lines 353--354
 \OT1/cmr/m/n/10 in-ter-nally com-puted SMB in this study. Rather, we uti-lize t
 he com-po-nents of the in-ter- 
  []
 
 
-Overfull \hbox (19.29346pt too wide) in paragraph at lines 354--355
+Overfull \hbox (19.29346pt too wide) in paragraph at lines 355--356
 []\OT1/cmr/m/n/10 We con-sider two ap-proaches for map-ping and in-te-grat-ing 
 the SMB com-po-nents over 
  []
 
 
-Overfull \hbox (12.15457pt too wide) in paragraph at lines 356--357
+Overfull \hbox (12.15457pt too wide) in paragraph at lines 357--358
 []\OT1/cmr/m/n/10 Map the grid-cell mean quan-ti-ties to the com-mon grid, and 
 in-te-grate the mapped 
  []
 
 
-Overfull \hbox (1.90448pt too wide) in paragraph at lines 357--358
+Overfull \hbox (1.90448pt too wide) in paragraph at lines 358--359
 []\OT1/cmr/m/n/10 Map the patch-level quan-ti-ties (i.e., the state over the ic
 e frac-tional com-po-nent 
  []
 
 
-Overfull \hbox (20.23787pt too wide) in paragraph at lines 357--358
+Overfull \hbox (20.23787pt too wide) in paragraph at lines 358--359
 \OT1/cmr/m/n/10 of the grid cell) to the com-mon grid, and in-te-grate the mapp
 ed fields over the com- 
  []
 
 
-Overfull \hbox (12.89063pt too wide) in paragraph at lines 360--361
+Overfull \hbox (12.89063pt too wide) in paragraph at lines 361--362
 []\OT1/cmr/m/n/10 Note that we are map-ping to low-resolution grids that have l
 arger GrIS ar-eas than 
  []
 
 
-Overfull \hbox (14.98792pt too wide) in paragraph at lines 360--361
+Overfull \hbox (14.98792pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 the source grids (Fig-ure 3[]b). Since the com-po-nents of equa
 -tion 1[] are not con-fined to the 
  []
 
 
-Overfull \hbox (15.32127pt too wide) in paragraph at lines 360--361
+Overfull \hbox (15.32127pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 ice mask, method 1[] re-con-structs the SMB over the por-tion o
 f the com-mon ice mask that 
  []
 
 
-Overfull \hbox (14.65448pt too wide) in paragraph at lines 360--361
+Overfull \hbox (14.65448pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 is out-side the ice mask on the source grid. While this may be 
 a an ac-cept-able way to re- 
  []
 
 
-Overfull \hbox (27.26552pt too wide) in paragraph at lines 360--361
+Overfull \hbox (27.26552pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 con-struct the mass source terms over dif-fer-ent ice masks, ic
 e melt is zero out-side the source 
  []
 
 
-Overfull \hbox (0.65454pt too wide) in paragraph at lines 360--361
+Overfull \hbox (0.65454pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 ice mask, and so method 1[] will un-der-es-ti-mate the mass sin
 k term. This un-der-es-ti-ma- 
  []
 
 
-Overfull \hbox (3.87675pt too wide) in paragraph at lines 360--361
+Overfull \hbox (3.87675pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 tion is sys-tem-atic in method 2[], where all vari-ables are ex
 -clu-sive to the ice mask; map- 
  []
 
 
-Overfull \hbox (20.15454pt too wide) in paragraph at lines 360--361
+Overfull \hbox (20.15454pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 ping to a lower-resolution grid will di-lute a field of non-zer
 o val-ues over the ice mask with 
  []
 
 
-Overfull \hbox (9.84888pt too wide) in paragraph at lines 360--361
+Overfull \hbox (9.84888pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 a field of ze-ros out-side the ice mask. How-ever, patch-level 
 val-ues for pro-cesses ex-clu-sive 
  []
 
 
-Overfull \hbox (21.46013pt too wide) in paragraph at lines 360--361
+Overfull \hbox (21.46013pt too wide) in paragraph at lines 361--362
 \OT1/cmr/m/n/10 to the ice mask (e.g., ice melt) will on av-er-age have larger 
 mag-ni-tudes than the grid-mean 
  []
 
 
-Overfull \hbox (10.51556pt too wide) in paragraph at lines 362--363
+Overfull \hbox (10.51556pt too wide) in paragraph at lines 363--364
 []\OT1/cmr/m/n/10 The dif-fer-ent er-ror char-ac-ter-is-tics of the two meth-od
 s are used to []fur-ther[] di-ver-sify 
  []
 
 
-Overfull \hbox (20.87686pt too wide) in paragraph at lines 362--363
+Overfull \hbox (20.87686pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 the en-sem-ble. Each of the four re-grid-ding com-bi-na-tions (
 with con-ser-va-tive and high-order 
  []
 
 
-Overfull \hbox (3.98735pt too wide) in paragraph at lines 362--363
+Overfull \hbox (3.98735pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 remap-ping to the $\OT1/cmtt/m/n/10 f09$ \OT1/cmr/m/n/10 and $\
 OT1/cmtt/m/n/10 ne30pg2$ \OT1/cmr/m/n/10 grids) are re-peated with each method,
  re-sult-ing in 
  []
 
 
-Overfull \hbox (4.48795pt too wide) in paragraph at lines 362--363
+Overfull \hbox (4.48795pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 (up to) eight val-ues for each in-te-grated quan-tity. Un-for-t
 u-nately, the patch-level val-ues 
  []
 
 
-Overfull \hbox (1.15472pt too wide) in paragraph at lines 362--363
+Overfull \hbox (1.15472pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 of evap-o-ra-tion/sublimation are not avail-able from the model
  out-put, and we es-ti-mate 
  []
 
 
-Overfull \hbox (5.37679pt too wide) in paragraph at lines 362--363
+Overfull \hbox (5.37679pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 their con-tri-bu-tion by ze-ro-ing out the field for grid cells
  that have no ice, prior to map- 
  []
 
 
-Overfull \hbox (16.96017pt too wide) in paragraph at lines 362--363
+Overfull \hbox (16.96017pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 ping to the com-mon ice mask. This will de-grade the SMB es-ti-
 mates us-ing method 2[], but 
  []
 
 
-Overfull \hbox (15.21005pt too wide) in paragraph at lines 362--363
+Overfull \hbox (15.21005pt too wide) in paragraph at lines 363--364
 \OT1/cmr/m/n/10 we are more in-ter-ested in char-ac-ter-iz-ing the be-hav-ior o
 f in-di-vid-ual pro-cesses across grids 
  []
 
 
-Overfull \hbox (1.87671pt too wide) in paragraph at lines 368--369
+Overfull \hbox (1.87671pt too wide) in paragraph at lines 369--370
 []\OT1/cmr/m/n/10 Before delv-ing into the sim-u-lated Arc-tic cli-mate con-di-
 tions, we as-sess the global 
  []
 
 
-Overfull \hbox (4.90453pt too wide) in paragraph at lines 368--369
+Overfull \hbox (4.90453pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 mean dif-fer-ences be-tween the var-i-ous grids and dy-cores. F
 ig-ure 4[] shows 1979-1998 an- 
  []
 
 
-Overfull \hbox (18.44621pt too wide) in paragraph at lines 368--369
+Overfull \hbox (18.44621pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 nual mean, zonal mean height plots []of tem-per-a-ture[], ex-pr
 essed as dif-fer-ences be-tween []$1[] \OMS/cmsy/m/n/10 ^^@ 
  []
 
 
-Overfull \hbox (0.1405pt too wide) in paragraph at lines 368--369
+Overfull \hbox (0.1405pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 2[]$ lat-lon and quasi-uniform un-struc-tured[] grids and dy-co
 res. The $\OT1/cmtt/m/n/10 f09$ \OT1/cmr/m/n/10 grid is warmer 
  []
 
 
-Overfull \hbox (0.76563pt too wide) in paragraph at lines 368--369
+Overfull \hbox (0.76563pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 than the $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n/10 grid, pri-mar-i
 ly in the mid-to-high lat-i-tudes through-out the depth of the 
  []
 
 
-Overfull \hbox (27.8907pt too wide) in paragraph at lines 368--369
+Overfull \hbox (27.8907pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 tro-po-sphere. This is a com-mon re-sponse to in-creas-ing hor-
 i-zon-tal res-o-lu-tion in GCMs []Pope 
  []
 
 
-Overfull \hbox (8.0713pt too wide) in paragraph at lines 368--369
+Overfull \hbox (8.0713pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 & Strat-ton, 2002; Roeck-ner et al.[], 2006). []Herrington and 
 Reed (2020) have shown that 
  []
 
 
-Overfull \hbox (24.4323pt too wide) in paragraph at lines 368--369
+Overfull \hbox (24.4323pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 this oc-curs in CAM due to higher re-solved ver-ti-cal ve-loc-i
 -ties which, in turn, gen-er-ate more 
  []
 
 
-Overfull \hbox (8.76573pt too wide) in paragraph at lines 368--369
+Overfull \hbox (8.76573pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 con-den-sa-tional heat-ing in the CLUBB macro-phyiscs. The righ
 t panel in Fig-ure 4[]a sup- 
  []
 
 
-Overfull \hbox (3.37685pt too wide) in paragraph at lines 368--369
+Overfull \hbox (3.37685pt too wide) in paragraph at lines 369--370
 \OT1/cmr/m/n/10 ports this in-ter-pre-ta-tion, show-ing an in-crease in the cli
 -ma-to-log-i-cal CLUBB heat-ing at 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
+[12]
 <temp_dhgt_panel_STEND_CLUBB-lores.pdf, id=79, 570.51657pt x 536.62053pt>
 File: temp_dhgt_panel_STEND_CLUBB-lores.pdf Graphic file (type pdf)
 <use temp_dhgt_panel_STEND_CLUBB-lores.pdf>
 Package pdftex.def Info: temp_dhgt_panel_STEND_CLUBB-lores.pdf  used on input l
-ine 372.
+ine 373.
 (pdftex.def)             Requested size: 369.88582pt x 347.91487pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--374
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 []\OT1/cmr/bx/n/9 Figure  4. \OT1/cmr/m/n/9 1979-1998 an-nual mean tem-per-a-tu
 re (left col-umn) and CLUBB tem-per-a-ture ten-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--374
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 \OT1/cmr/m/n/9 den-cies (right col-umn) in zonal mean height space, ex-pressed 
 as dif-fer-ences be-tween the var-i-ous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--374
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
 \OT1/cmr/m/n/9 1[] \OMS/cmsy/m/n/9 ^^@ \OT1/cmr/m/n/9 2[]$ grids. The thick gre
 y and ma-genta lines are the tropopause for the con-trol run and the
  []
 
 
-Overfull \hbox (7.0711pt too wide) in paragraph at lines 378--379
+Overfull \hbox (7.0711pt too wide) in paragraph at lines 379--380
 []\OT1/cmr/m/n/10 As the SE dy-core is less dif-fu-sive than the FV dy-core, th
 e re-solved ver-ti-cal ve-loc- 
  []
 
 
-Overfull \hbox (1.40411pt too wide) in paragraph at lines 378--379
+Overfull \hbox (1.40411pt too wide) in paragraph at lines 379--380
 \OT1/cmr/m/n/10 i-ties are larger in the SE dy-core, and so the $\OT1/cmtt/m/n/
 10 ne30pg3$ \OT1/cmr/m/n/10 tro-po-sphere is mod-estly warmer 
  []
 
 
-Overfull \hbox (9.82068pt too wide) in paragraph at lines 378--379
+Overfull \hbox (9.82068pt too wide) in paragraph at lines 379--380
 \OT1/cmr/m/n/10 than $\OT1/cmtt/m/n/10 f09$ \OT1/cmr/m/n/10 (Fig-ure 4[]b). The
  strato-sphere re-sponds dif-fer-ently, with $\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cm
 r/m/n/10 much cooler 
  []
 
 
-Overfull \hbox (18.95998pt too wide) in paragraph at lines 378--379
+Overfull \hbox (18.95998pt too wide) in paragraph at lines 379--380
 \OT1/cmr/m/n/10 than $\OT1/cmtt/m/n/10 f09$ \OT1/cmr/m/n/10 in the mid-to-high 
 lat-i-tudes. Fig-ure 4[]c also shows small tem-per-a-ture dif-fer-ences 
  []
 
 
-Overfull \hbox (1.15337pt too wide) in paragraph at lines 378--379
+Overfull \hbox (1.15337pt too wide) in paragraph at lines 379--380
 \OT1/cmr/m/n/10 be-tween $\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cmr/m/n/10 and $\OT1/c
 mtt/m/n/10 ne30pg2$\OT1/cmr/m/n/10 , with $\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cmr/m
 /n/10 slightly warmer near the tropopause at 
  []
 
 
-Overfull \hbox (7.93231pt too wide) in paragraph at lines 378--379
+Overfull \hbox (7.93231pt too wide) in paragraph at lines 379--380
 \OT1/cmr/m/n/10 high lat-i-tudes. This is con-sis-tent with the sim-i-lar cli-m
 ates found for these two grids by 
  []
 
 
-Overfull \hbox (9.87679pt too wide) in paragraph at lines 380--381
+Overfull \hbox (9.87679pt too wide) in paragraph at lines 381--382
 []\OT1/cmr/m/n/10 Comparing the VR grids to the []lat-lon and quasi-uniform[] g
 rids is com-pli-cated be- 
  []
 
 
-Overfull \hbox (7.04338pt too wide) in paragraph at lines 380--381
+Overfull \hbox (7.04338pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 cause we si-mul-ta-ne-ously in-crease the res-o-lu-tion and re-
 duce the physics time-step, both 
  []
 
 
-Overfull \hbox (29.01541pt too wide) in paragraph at lines 380--381
+Overfull \hbox (29.01541pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 of which in-flu-ence the so-lu-tion []Williamson, 2008). We the
 re-fore run an ad-di-tional $\OT1/cmtt/m/n/10 ne30pg3$ 
  []
 
 
-Overfull \hbox (4.68195pt too wide) in paragraph at lines 380--381
+Overfull \hbox (4.68195pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 sim-u-la-tion with the shorter physics time step used in the $\
 OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid (450 s), re-ferred 
  []
 
 
-Overfull \hbox (18.26443pt too wide) in paragraph at lines 380--381
+Overfull \hbox (18.26443pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 to as $\OT1/cmtt/m/n/10 ne30pg3[]$ \OT1/cmr/m/n/10 (Ta-ble 1[])
 . Fig-ure 5[]a shows the dif-fer-ence be-tween $\OT1/cmtt/m/n/10 ne30pg3[]$ \OT
 1/cmr/m/n/10 and $\OT1/cmtt/m/n/10 ne30pg3$ 
  []
 
 
-Overfull \hbox (1.34903pt too wide) in paragraph at lines 380--381
+Overfull \hbox (1.34903pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 for cli-ma-to-log-i-cal sum-mer tem-per-a-tures in zonal-mean h
 eight space. The tro-po-sphere 
  []
 
 
-Overfull \hbox (8.68227pt too wide) in paragraph at lines 380--381
+Overfull \hbox (8.68227pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 is warmer with the re-duced time step, and the mech-a-nism is s
 im-i-lar in that the shorter 
  []
 
 
-Overfull \hbox (3.48787pt too wide) in paragraph at lines 380--381
+Overfull \hbox (3.48787pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 time step in-creases re-solved ver-ti-cal ve-loc-i-ties (not sh
 own) and CLUBB heat-ing (right 
  []
 
 
-Overfull \hbox (0.71013pt too wide) in paragraph at lines 380--381
+Overfull \hbox (0.71013pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 panel in Fig-ure 5[]a). Fig-ure 5[]b shows the dif-fer-ence in 
 cli-ma-to-log-i-cal sum-mer tem-per- 
  []
 
 
-Overfull \hbox (15.7788pt too wide) in paragraph at lines 380--381
+Overfull \hbox (15.7788pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 a-ture be-tween the $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 g
 rid and the $\OT1/cmtt/m/n/10 ne30pg3[]$ \OT1/cmr/m/n/10 grid. With the same ph
 ysics time step, 
  []
 
 
-Overfull \hbox (12.40457pt too wide) in paragraph at lines 380--381
+Overfull \hbox (12.40457pt too wide) in paragraph at lines 381--382
 \OT1/cmr/m/n/10 the greater con-den-sa-tional heat-ing and warmer tem-per-a-tur
 es are con-fined to the re-fined 
  []
@@ -2927,110 +2939,110 @@ es are con-fined to the re-fined
 Underfull \vbox (badness 1406) has occurred while \output is active []
 
  [13 <./temp_dhgt_panel_STEND_CLUBB-lores.pdf>]
-Overfull \hbox (9.71013pt too wide) in paragraph at lines 382--383
+Overfull \hbox (9.71013pt too wide) in paragraph at lines 383--384
 []\OT1/cmr/m/n/10 We note that there is not per-fect align-ment of the CLUBB he
 at-ing anoma-lies and 
  []
 
 
-Overfull \hbox (14.90453pt too wide) in paragraph at lines 382--383
+Overfull \hbox (14.90453pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 the tem-per-a-ture anoma-lies in Fig-ures 4[] $&$ 5[]. This lea
 ves some un-cer-tainty as to whether 
  []
 
 
-Overfull \hbox (14.15457pt too wide) in paragraph at lines 382--383
+Overfull \hbox (14.15457pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 CLUBB is solely re-spon-si-ble for the tem-per-a-ture anoma-lie
 s caused by chang-ing grid res- 
  []
 
 
-Overfull \hbox (11.12671pt too wide) in paragraph at lines 382--383
+Overfull \hbox (11.12671pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 o-lu-tion or dy-core, as as-serted above. In the deep Trop-ics,
  grav-ity waves are ex-pected to 
  []
 
 
-Overfull \hbox (15.26578pt too wide) in paragraph at lines 382--383
+Overfull \hbox (15.26578pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 prop-a-gate tem-per-a-ture anoma-lies far from their heat-ing s
 ource, and so the mis-align-ment 
  []
 
 
-Overfull \hbox (12.65454pt too wide) in paragraph at lines 382--383
+Overfull \hbox (12.65454pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 is less trou-ble-some for this re-gion. In the mid-latitudes, w
 e spec-u-late that this mis-align- 
  []
 
 
-Overfull \hbox (14.18239pt too wide) in paragraph at lines 382--383
+Overfull \hbox (14.18239pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 ment is due to av-er-ag-ing the CLUBB heat-ing over all time. [
 ]Herrington and Reed (2020) 
  []
 
 
-Overfull \hbox (7.1268pt too wide) in paragraph at lines 382--383
+Overfull \hbox (7.1268pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 have shown that only the CLUBB heat-ing co-in-cid-ing with up-w
 ard re-solved ver-ti-cal ve- 
  []
 
 
-Overfull \hbox (9.73793pt too wide) in paragraph at lines 382--383
+Overfull \hbox (9.73793pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 loc-i-ties tends to align spa-tially with the tem-per-a-ture re
 -sponse, whereas heat-ing anoma- 
  []
 
 
-Overfull \hbox (12.7379pt too wide) in paragraph at lines 382--383
+Overfull \hbox (12.7379pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 lies as-so-ci-ated with de-scend-ing grid columns had no align-
 ment with the tem-per-a-ture re- 
  []
 
 
-Overfull \hbox (16.51572pt too wide) in paragraph at lines 382--383
+Overfull \hbox (16.51572pt too wide) in paragraph at lines 383--384
 \OT1/cmr/m/n/10 sponse. There-fore the av-er-age over all time will di-lute the
  heat-ing sig-nal, and po-ten-tially 
  []
 
 
-Overfull \hbox (11.9036pt too wide) in paragraph at lines 384--385
+Overfull \hbox (11.9036pt too wide) in paragraph at lines 385--386
 []\OT1/cmr/m/n/10 Figure 5[]c shows that the $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy
 /m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid is much warmer than the
  $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid 
  []
 
 
-Overfull \hbox (3.09895pt too wide) in paragraph at lines 384--385
+Overfull \hbox (3.09895pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/10 in the Arc-tic sum-mer. This may be due, in part, to the shorte
 r physics time step, but 
  []
 
 
-Overfull \hbox (11.57126pt too wide) in paragraph at lines 384--385
+Overfull \hbox (11.57126pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/10 the tem-per-a-ture re-sponse is too large to be ex-plained by e
 n-hanced con-den-sa-tional heat- 
  []
 
 
-Overfull \hbox (1.54352pt too wide) in paragraph at lines 384--385
+Overfull \hbox (1.54352pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/10 ing from CLUBB alone. This sum-mer warm-ing ap-pears to be a re
 -sult of vari-a-tions in 
  []
 
 
-Overfull \hbox (6.93236pt too wide) in paragraph at lines 384--385
+Overfull \hbox (6.93236pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/10 the sta-tion-ary wave pat-tern, with a swath of anoma-lous sout
 herly winds to the west of 
  []
 
 
-Overfull \hbox (0.6962pt too wide) in paragraph at lines 384--385
+Overfull \hbox (0.6962pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/10 Green-land (not shown). This dy-namic re-sponse is in-ter-est-i
 ng, be-cause other than the 
  []
 
 
-Overfull \hbox (3.00183pt too wide) in paragraph at lines 384--385
+Overfull \hbox (3.00183pt too wide) in paragraph at lines 385--386
 \OT1/cmr/m/n/10 the dou-bling of res-o-lu-tion over Green-land. This be-hav-ior
  will be ex-plored fur-ther in a 
  []
@@ -3039,186 +3051,186 @@ Overfull \hbox (3.00183pt too wide) in paragraph at lines 384--385
 File: temp_dhgt_panel_STEND_CLUBB-hires.pdf Graphic file (type pdf)
 <use temp_dhgt_panel_STEND_CLUBB-hires.pdf>
 Package pdftex.def Info: temp_dhgt_panel_STEND_CLUBB-hires.pdf  used on input l
-ine 388.
+ine 389.
 (pdftex.def)             Requested size: 369.88582pt x 349.25764pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
 []\OT1/cmr/bx/n/9 Figure  5. \OT1/cmr/m/n/9 As in Fig-ure 4[] but for the short
 -time-step ex-per-i-ment and the VR grids. The fields
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
 \OT1/cmr/m/n/9 plot-ted are for the cli-ma-to-log-i-cal north-ern hemi-sphere s
 um-mer. We fo-cus on sum-mer be-cause
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
 \OT1/cmr/m/n/9 that is when the res-o-lu-tion re-sponse is largest, and the re-
 fined re-gions are lo-cated in the north-ern
  []
 
 
-Overfull \hbox (0.91841pt too wide) in paragraph at lines 394--395
+Overfull \hbox (0.91841pt too wide) in paragraph at lines 395--396
 []\OT1/cmr/m/n/10 Keeping our fo-cus on the Arc-tic re-gion, and in par-tic-u-l
 ar Green-land,[] it is use-ful 
  []
 
 
-Overfull \hbox (17.54343pt too wide) in paragraph at lines 394--395
+Overfull \hbox (17.54343pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 to un-der-stand sum-mer tem-per-a-ture bi-ases due to their con
 -trol on ice and snow melt over 
  []
 
 
-Overfull \hbox (17.97404pt too wide) in paragraph at lines 394--395
+Overfull \hbox (17.97404pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 the GrIS []Ohmura, 2001). Fig-ure 6[] shows the 1979--1998 lowe
 r tro-po-sphere sum-mer tem- 
  []
 
 
-Overfull \hbox (14.26575pt too wide) in paragraph at lines 394--395
+Overfull \hbox (14.26575pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 per-a-ture bias rel-a-tive to ERA5, com-puted by equat-ing a la
 yer mean vir-tual tem-per-a-ture 
  []
 
 
-Overfull \hbox (12.04344pt too wide) in paragraph at lines 394--395
+Overfull \hbox (12.04344pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 with the 500--1000 hPa geopo-ten-tial thick-ness. The re-sults 
 are con-sis-tent with the zonal 
  []
 
 
-Overfull \hbox (10.4459pt too wide) in paragraph at lines 394--395
+Overfull \hbox (10.4459pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 mean height plots; in-creas-ing res-o-lu-tion from $\OT1/cmtt/m
 /n/10 f19$ \OT1/cmr/m/n/10 to $\OT1/cmtt/m/n/10 f09$ \OT1/cmr/m/n/10 warms the 
 cli-mate, and the $1[]$ 
  []
 
 
-Overfull \hbox (9.48785pt too wide) in paragraph at lines 394--395
+Overfull \hbox (9.48785pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 SE grids are warmer than the FV grids. The FV sum-mer tem-per-a
 -tures are per-sis-tently 
  []
 
 
-Overfull \hbox (21.05733pt too wide) in paragraph at lines 394--395
+Overfull \hbox (21.05733pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 colder than ERA5, whereas the $1[]$ SE grids are not as cold, a
 nd are ac-tu-ally warmer than 
  []
 
 
-Overfull \hbox (13.47406pt too wide) in paragraph at lines 394--395
+Overfull \hbox (13.47406pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 ERA5 at high-latitudes, north of $75[]$. All grids show a north
 -south gra-di-ent in bias over 
  []
 
 
-Overfull \hbox (15.89072pt too wide) in paragraph at lines 394--395
+Overfull \hbox (15.89072pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 Green-land, with the sum-mer tem-per-a-ture bias more pos-i-tiv
 e for the north-ern part of the 
  []
 
 
-Overfull \hbox (7.94609pt too wide) in paragraph at lines 394--395
+Overfull \hbox (7.94609pt too wide) in paragraph at lines 395--396
 \OT1/cmr/m/n/10 ice sheet. This pat-tern is also ev-i-dent in the near sur-face
  tem-per-a-ture bias over Green- 
  []
 
 
-Overfull \hbox (21.47365pt too wide) in paragraph at lines 396--397
+Overfull \hbox (21.47365pt too wide) in paragraph at lines 397--398
 []\OT1/cmr/m/n/10 The $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid has sum-me
 r tem-per-a-tures sim-i-lar to the $1[]$ SE grids, but is slightly 
  []
 
 
-Overfull \hbox (25.04355pt too wide) in paragraph at lines 396--397
+Overfull \hbox (25.04355pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/10 warmer over north-ern Eura-sia and the North Pole (Fig-ure 6[])
 . An anoma-lous cool-ing patch 
  []
 
 
-Overfull \hbox (8.4042pt too wide) in paragraph at lines 396--397
+Overfull \hbox (8.4042pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/10 is warmer than the $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 gr
 id over most of the Arc-tic, but with a sim-i-lar spa-tial pat- 
  []
 
 
-Overfull \hbox (28.40451pt too wide) in paragraph at lines 398--399
+Overfull \hbox (28.40451pt too wide) in paragraph at lines 399--400
 []\OT1/cmr/m/n/10 Some of these tem-per-a-ture dif-fer-ences may be re-lated to
  dif-fer-ences in sum-mer cloudi- 
  []
 
 
-Overfull \hbox (11.51561pt too wide) in paragraph at lines 398--399
+Overfull \hbox (11.51561pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 ness. Fig-ure 7[] shows the sum-mer short-wave cloud forc-ing b
 ias in the six runs, us-ing the 
  []
 
 
-Overfull \hbox (7.48792pt too wide) in paragraph at lines 398--399
+Overfull \hbox (7.48792pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 CERES prod-uct. Short-wave cloud forc-ing quan-ti-fies the im-p
 act of clouds on short-wave 
  []
 
 
-Overfull \hbox (18.04346pt too wide) in paragraph at lines 398--399
+Overfull \hbox (18.04346pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 ra-di-a-tion, taken as the dif-fer-ence be-tween all-sky and cl
 ear-sky short-wave ra-dia-tive fluxes 
  []
 
 
-Overfull \hbox (23.349pt too wide) in paragraph at lines 398--399
+Overfull \hbox (23.349pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 at the top of the at-mo-sphere. A neg-a-tive bias cor-re-sponds
  to ex-ces-sive re-flec-tion and cool- 
  []
 
 
-Overfull \hbox (5.01569pt too wide) in paragraph at lines 398--399
+Overfull \hbox (5.01569pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 ing. The []lat-lon and quasi-uniform[] grids have sim-i-lar bi-
 ases, with the clouds re-flect-ing 
  []
 
 
-Overfull \hbox (3.50182pt too wide) in paragraph at lines 398--399
+Overfull \hbox (3.50182pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 20--40 W/m$[]$ too much short-wave ra-di-a-tion over a wide swa
 th of the Arc-tic, pri-mar-ily 
  []
 
 
-Overfull \hbox (24.2657pt too wide) in paragraph at lines 398--399
+Overfull \hbox (24.2657pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 the land masses. There is also a halo of pos-i-tive bias (cloud
 s not re-flec-tive enough) around 
  []
 
 
-Overfull \hbox (7.25142pt too wide) in paragraph at lines 398--399
+Overfull \hbox (7.25142pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 the ocean perime-ter of Green-land. The $\OT1/cmtt/m/n/10 Arcti
 c$ \OT1/cmr/m/n/10 grid has much smaller cloud forc-ing bi- 
  []
 
 
-Overfull \hbox (55.15459pt too wide) in paragraph at lines 398--399
+Overfull \hbox (55.15459pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 ases over the Arc-tic land masses, but is still too re-flec-tiv
 e over Alaska, the Cana-dian Archipelago, 
  []
 
 
-Overfull \hbox (1.26482pt too wide) in paragraph at lines 398--399
+Overfull \hbox (1.26482pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 and parts of Eura-sia. Com-pared to the $\OT1/cmtt/m/n/10 Arcti
 c$ \OT1/cmr/m/n/10 grid, the $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1
 /cmtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid vastly re- 
  []
 
 
-Overfull \hbox (9.40453pt too wide) in paragraph at lines 398--399
+Overfull \hbox (9.40453pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 duces the cloud forc-ing bias over Eura-sia, and also im-proves
  the bias over North Amer- 
  []
 
 
-Overfull \hbox (25.90462pt too wide) in paragraph at lines 398--399
+Overfull \hbox (25.90462pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/10 ica. In both VR grids, the halo of pos-i-tive short-wave cloud 
 forc-ing bias around the perime- 
  []
@@ -3227,251 +3239,252 @@ forc-ing bias around the perime-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-Overfull \hbox (7.40446pt too wide) in paragraph at lines 400--401
+Overfull \hbox (7.40446pt too wide) in paragraph at lines 401--402
 []\OT1/cmr/m/n/10 The sum-mer cloud forc-ing bi-ases are con-sis-tent with the 
 sum-mer tem-per-a-ture bi- 
  []
 
 
-Overfull \hbox (7.12668pt too wide) in paragraph at lines 400--401
+Overfull \hbox (7.12668pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 ases in Fig-ure 6[] -- re-gions where clouds are too re-flec-ti
 ve co-in-cide with re-gions that are 
  []
 
 
-Overfull \hbox (19.4879pt too wide) in paragraph at lines 400--401
+Overfull \hbox (19.4879pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 too cold. While we have not quan-ti-fied the con-tri-bu-tion of
  cloud bi-ases to the cooler Arc- 
  []
 
 
-Overfull \hbox (6.59898pt too wide) in paragraph at lines 400--401
+Overfull \hbox (6.59898pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 tic tem-per-a-tures, short-wave ra-di-a-tion is a cru-cial com-
 po-nent of the Arc-tic en-ergy bud- 
  []
 
 
-Overfull \hbox (2.48787pt too wide) in paragraph at lines 400--401
+Overfull \hbox (2.48787pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 get dur-ing sum-mer. The short-wave cloud forc-ing bi-ases are 
 on the or-der of 10 W/m2, 
  []
 
 
-Overfull \hbox (1.07126pt too wide) in paragraph at lines 400--401
+Overfull \hbox (1.07126pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 which is a sig-nif-i-cant frac-tion of the to-tal ab-sorbed sho
 rt-wave []ra-di-a-tion[] dur-ing Arc-tic 
  []
 
 
-Overfull \hbox (5.46011pt too wide) in paragraph at lines 400--401
+Overfull \hbox (5.46011pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10 sum-mer []Serreze et al.[], 2007) and is there-fore likely a fa
 c-tor con-tribut-ing to the cooler 
- []
-
-<temp_contours_diffERA5_Thyps.pdf, id=90, 332.86339pt x 492.72763pt>
-File: temp_contours_diffERA5_Thyps.pdf Graphic file (type pdf)
-<use temp_contours_diffERA5_Thyps.pdf>
-Package pdftex.def Info: temp_contours_diffERA5_Thyps.pdf  used on input line 4
-04.
-(pdftex.def)             Requested size: 284.52756pt x 421.19627pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-[]\OT1/cmr/bx/n/9 Figure  6. \OT1/cmr/m/n/9 1979-1998 lower tro-po-sphere, nort
-h-ern hemi-sphere sum-mer vir-tual tem-per-a-ture bi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-\OT1/cmr/m/n/9 ases, com-puted as the dif-fer-ence from ERA5. Lower tro-po-sphe
-re layer mean vir-tual tem-per-a-ture
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-\OT1/cmr/m/n/9 is de-rived from the 1000 hPa - 500h Pa geopo-ten-tial thick-nes
-s, us-ing the hyp-so-met-ric equa-tion.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-\OT1/cmr/m/n/9 Dif-fer-ences are com-puted af-ter map-ping the ERA5 data to the
- finite-volume grids since the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-\OT1/cmr/m/n/9 geopo-ten-tial field is only avail-able on the out-put tapes in 
-the spectral-element runs that have
- []
-
-<temp_contours_diffCERES_SWCF.pdf, id=91, 312.61433pt x 504.02304pt>
-File: temp_contours_diffCERES_SWCF.pdf Graphic file (type pdf)
-<use temp_contours_diffCERES_SWCF.pdf>
-Package pdftex.def Info: temp_contours_diffCERES_SWCF.pdf  used on input line 4
-12.
-(pdftex.def)             Requested size: 284.52756pt x 458.76166pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
-[]\OT1/cmr/bx/n/9 Figure  7. \OT1/cmr/m/n/9 1979-1998 North-ern Hemi-sphere sum
--mer short-wave cloud forc-ing bias, rel-a-tive to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
-\OT1/cmr/m/n/9 the CERES-EBAF grid-ded dataset. Short-wave cloud forc-ing is de
--fined as the dif-fer-ence be-tween
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
-\OT1/cmr/m/n/9 all-sky and clear-sky net short-wave fluxes at the top of the at
--mo-sphere. Dif-fer-ences are com-puted
- []
-
-
-Overfull \hbox (2.32123pt too wide) in paragraph at lines 420--421
-[]\OT1/cmr/m/n/10 In ad-di-tion to sum-mer tem-per-a-tures, short-wave ra-di-a-
-tion is an im-por-tant de-ter- 
- []
-
-
-Overfull \hbox (5.65454pt too wide) in paragraph at lines 420--421
-\OT1/cmr/m/n/10 mi-nant of snow and ice melt. Fig-ure 8[] shows the sum-mer in-
-ci-dent short-wave ra-di-a-tion 
- []
-
-
-Overfull \hbox (8.00172pt too wide) in paragraph at lines 420--421
-\OT1/cmr/m/n/10 bias at the sur-face over Green-land and sur-round-ing seas. Th
-e top panel shows the bias 
- []
-
-
-Overfull \hbox (27.51573pt too wide) in paragraph at lines 420--421
-\OT1/cmr/m/n/10 rel-a-tive to the RACMO2.3p2 dataset, and the mid-dle panel rel
--a-tive to the CERES dataset. 
- []
-
-
-Overfull \hbox (13.97397pt too wide) in paragraph at lines 420--421
-\OT1/cmr/m/n/10 The halo of ex-ces-sive in-ci-dent short-wave ra-di-a-tion arou
-nd the coasts of Green-land is ap- 
- []
-
-
-Overfull \hbox (4.59895pt too wide) in paragraph at lines 420--421
-\OT1/cmr/m/n/10 par-ent for both datasets in re-la-tion to the coarser grids, c
-on-sis-tent with the short-wave 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15 <./temp_dhgt_panel_STEND_CLUBB-hires.pdf>]
-Overfull \hbox (1.29327pt too wide) in paragraph at lines 422--423
+<temp_contours_diffERA5_Thyps.pdf, id=95, 332.86339pt x 492.72763pt>
+File: temp_contours_diffERA5_Thyps.pdf Graphic file (type pdf)
+<use temp_contours_diffERA5_Thyps.pdf>
+Package pdftex.def Info: temp_contours_diffERA5_Thyps.pdf  used on input line 4
+05.
+(pdftex.def)             Requested size: 284.52756pt x 421.19627pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+[]\OT1/cmr/bx/n/9 Figure  6. \OT1/cmr/m/n/9 1979-1998 lower tro-po-sphere, nort
+h-ern hemi-sphere sum-mer vir-tual tem-per-a-ture bi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\OT1/cmr/m/n/9 ases, com-puted as the dif-fer-ence from ERA5. Lower tro-po-sphe
+re layer mean vir-tual tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\OT1/cmr/m/n/9 is de-rived from the 1000 hPa - 500h Pa geopo-ten-tial thick-nes
+s, us-ing the hyp-so-met-ric equa-tion.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\OT1/cmr/m/n/9 Dif-fer-ences are com-puted af-ter map-ping the ERA5 data to the
+ finite-volume grids since the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\OT1/cmr/m/n/9 geopo-ten-tial field is only avail-able on the out-put tapes in 
+the spectral-element runs that have
+ []
+
+<temp_contours_diffCERES_SWCF.pdf, id=96, 312.61433pt x 504.02304pt>
+File: temp_contours_diffCERES_SWCF.pdf Graphic file (type pdf)
+<use temp_contours_diffCERES_SWCF.pdf>
+Package pdftex.def Info: temp_contours_diffCERES_SWCF.pdf  used on input line 4
+13.
+(pdftex.def)             Requested size: 284.52756pt x 458.76166pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]\OT1/cmr/bx/n/9 Figure  7. \OT1/cmr/m/n/9 1979-1998 North-ern Hemi-sphere sum
+-mer short-wave cloud forc-ing bias, rel-a-tive to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\OT1/cmr/m/n/9 the CERES-EBAF grid-ded dataset. Short-wave cloud forc-ing is de
+-fined as the dif-fer-ence be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\OT1/cmr/m/n/9 all-sky and clear-sky net short-wave fluxes at the top of the at
+-mo-sphere. Dif-fer-ences are com-puted
+ []
+
+
+Overfull \hbox (2.32123pt too wide) in paragraph at lines 421--422
+[]\OT1/cmr/m/n/10 In ad-di-tion to sum-mer tem-per-a-tures, short-wave ra-di-a-
+tion is an im-por-tant de-ter- 
+ []
+
+
+Overfull \hbox (5.65454pt too wide) in paragraph at lines 421--422
+\OT1/cmr/m/n/10 mi-nant of snow and ice melt. Fig-ure 8[] shows the sum-mer in-
+ci-dent short-wave ra-di-a-tion 
+ []
+
+
+Overfull \hbox (8.00172pt too wide) in paragraph at lines 421--422
+\OT1/cmr/m/n/10 bias at the sur-face over Green-land and sur-round-ing seas. Th
+e top panel shows the bias 
+ []
+
+
+Overfull \hbox (27.51573pt too wide) in paragraph at lines 421--422
+\OT1/cmr/m/n/10 rel-a-tive to the RACMO2.3p2 dataset, and the mid-dle panel rel
+-a-tive to the CERES dataset. 
+ []
+
+
+Overfull \hbox (13.97397pt too wide) in paragraph at lines 421--422
+\OT1/cmr/m/n/10 The halo of ex-ces-sive in-ci-dent short-wave ra-di-a-tion arou
+nd the coasts of Green-land is ap- 
+ []
+
+
+Overfull \hbox (4.59895pt too wide) in paragraph at lines 421--422
+\OT1/cmr/m/n/10 par-ent for both datasets in re-la-tion to the coarser grids, c
+on-sis-tent with the short-wave 
+ []
+
+
+Overfull \hbox (1.29327pt too wide) in paragraph at lines 423--424
 []\OT1/cmr/m/n/10 The ice sheet in-te-rior re-ceives too lit-tle short-wave ra-
 di-a-tion in the coarser grids. 
  []
 
 
-Overfull \hbox (14.32117pt too wide) in paragraph at lines 422--423
+Overfull \hbox (14.32117pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 On the VR grids, both the in-te-rior short-wave deficit and the
  ex-ces-sive short-wave around 
  []
 
 
-Overfull \hbox (19.26564pt too wide) in paragraph at lines 422--423
+Overfull \hbox (19.26564pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 the ocean perime-ter are im-proved. This sug-gests that the coa
 rse grid clouds are too thick 
  []
 
 
-Overfull \hbox (12.47401pt too wide) in paragraph at lines 422--423
+Overfull \hbox (12.47401pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 in the in-te-rior of Green-land and too thin around the perime-
 ter, which is con-sis-tent with 
  []
 
 
-Overfull \hbox (5.37688pt too wide) in paragraph at lines 422--423
+Overfull \hbox (5.37688pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 the to-tal sum-mer cloud frac-tion bias, com-puted from the CAL
 IPSO cloud dataset and 
  []
 
 
-Overfull \hbox (9.37683pt too wide) in paragraph at lines 422--423
+Overfull \hbox (9.37683pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 shown in the bot-tom panel of Fig-ure 8[]. Note that to-tal clo
 ud frac-tion char-ac-ter-izes the 
  []
 
 
-Overfull \hbox (11.90456pt too wide) in paragraph at lines 422--423
+Overfull \hbox (11.90456pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 cloud field at all ver-ti-cal lev-els, and at-ten-u-ates the ch
 anges aris-ing from any sin-gle layer 
  []
 
 
-Overfull \hbox (21.4323pt too wide) in paragraph at lines 422--423
+Overfull \hbox (21.4323pt too wide) in paragraph at lines 423--424
 \OT1/cmr/m/n/10 due to the oc-cur-rence of over-lap-ping clouds at other lev-el
 s. The VR grids ex-hibit an over- 
  []
 
 
-Overfull \hbox (11.43237pt too wide) in paragraph at lines 424--425
+Overfull \hbox (11.43237pt too wide) in paragraph at lines 425--426
 []\OT1/cmr/m/n/10 The top panel of Fig-ure 9[] shows the an-nual cli-ma-to-log-
 i-cal mean pre-cip-i-ta-tion bias 
  []
 
 
-Overfull \hbox (21.27956pt too wide) in paragraph at lines 424--425
+Overfull \hbox (21.27956pt too wide) in paragraph at lines 425--426
 \OT1/cmr/m/n/10 over the GrIS, ex-pressed as the frac-tional dif-fer-ence from 
 the RACMO2.3p2 so-lu-tion. The 
  []
 
 
-Overfull \hbox (0.98697pt too wide) in paragraph at lines 424--425
+Overfull \hbox (0.98697pt too wide) in paragraph at lines 425--426
 \OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid re-duces this bias sub-stan-tiall
 y, and the $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$
  \OT1/cmr/m/n/10 grid re-duces it fur- 
  []
 
 
-Overfull \hbox (21.32117pt too wide) in paragraph at lines 426--427
+Overfull \hbox (21.32117pt too wide) in paragraph at lines 427--428
 []\OT1/cmr/m/n/10 The more ac-cu-rate rep-re-sen-ta-tion of oro-graphic pre-cip
 -i-ta-tion in the VR grids is con- 
  []
 
 
-Overfull \hbox (16.7379pt too wide) in paragraph at lines 426--427
+Overfull \hbox (16.7379pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10 sis-tent with the cloud and ra-di-a-tion bi-ases, cf. Fig-ures 
 7[], 8[], and 9[]. The agree-ment of the 
  []
 
 
-Overfull \hbox (4.05745pt too wide) in paragraph at lines 426--427
+Overfull \hbox (4.05745pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10 cloud, ra-di-a-tion and pre-cip-i-ta-tion bi-ases in and around
  Green-land from mul-ti-ple in-de- 
  []
 
 
-Overfull \hbox (11.57117pt too wide) in paragraph at lines 426--427
+Overfull \hbox (11.57117pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10 pen-dent datasets in-di-cates that the bi-ases are a ro-bust fe
 a-ture of the coarser grids. The 
  []
 
 
-Overfull \hbox (5.57108pt too wide) in paragraph at lines 426--427
+Overfull \hbox (5.57108pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10 re-duced bi-ases in the VR grids sug-gest that the de-fi-cien-c
 ies of the coarse grids are due 
  []
 
 
-Overfull \hbox (11.30736pt too wide) in paragraph at lines 426--427
+Overfull \hbox (11.30736pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10 to in-suf-fi-cient hor-i-zon-tal res-o-lu-tion, con-sis-tent wi
 th pre-vi-ous find-ings that coarse GCMs 
  []
 
 
-Overfull \hbox (30.51575pt too wide) in paragraph at lines 426--427
+Overfull \hbox (30.51575pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10 have large, pos-i-tive pre-cip-i-ta-tion bi-ases over Green-lan
 d []Pollard & Groups, 2000; Van Kam- 
  []
@@ -3481,46 +3494,46 @@ d []Pollard & Groups, 2000; Van Kam-
 File: temp_contours_diffCALIPSOdiffCERESdiffRACMO.pdf Graphic file (type pdf)
 <use temp_contours_diffCALIPSOdiffCERESdiffRACMO.pdf>
 Package pdftex.def Info: temp_contours_diffCALIPSOdiffCERESdiffRACMO.pdf  used 
-on input line 430.
+on input line 431.
 (pdftex.def)             Requested size: 369.88582pt x 321.60083pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 []\OT1/cmr/bx/n/9 Figure  8. \OT1/cmr/m/n/9 1979-1998 north-ern hemi-sphere sum
 -mer sur-face in-ci-dent short-wave ra-di-a-tion bias
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 \OT1/cmr/m/n/9 (W/m2), com-puted as the dif-fer-ence (top) from RACMO2.3p2, and
  (mid-dle) the CERES-EBAF
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 \OT1/cmr/m/n/9 dataset, and the (bot-tom) to-tal cloud frac-tion bias rel-a-tiv
 e to the CALIPSO dataset. CALIPSO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 \OT1/cmr/m/n/9 and CERES dif-fer-ences are found by map-ping the model out-put 
 to the $1[]$ grid, and dif-fer-ences
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 \OT1/cmr/m/n/9 in the bot-tom panel are com-puted af-ter map-ping the RACMO2.3p
 2 dataset to the in-di-vid-ual
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 \OT1/cmr/m/n/9 model grids. Note that the av-er-ag-ing pe-riod for the CALIPSO-
 GOCCP and CERES-EBAF pan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 \OT1/cmr/m/n/9 els, 2006-2017 and 2003-2020, re-spec-tively, are dif-fer-ent fr
 om the av-er-ag-ing pe-riod for the model
  []
@@ -3528,53 +3541,53 @@ om the av-er-ag-ing pe-riod for the model
 <temp_contours_diffRACMO.pdf, id=98, 501.06856pt x 299.47324pt>
 File: temp_contours_diffRACMO.pdf Graphic file (type pdf)
 <use temp_contours_diffRACMO.pdf>
-Package pdftex.def Info: temp_contours_diffRACMO.pdf  used on input line 438.
+Package pdftex.def Info: temp_contours_diffRACMO.pdf  used on input line 439.
 (pdftex.def)             Requested size: 369.88582pt x 221.0675pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 []\OT1/cmr/bx/n/9 Figure  9. \OT1/cmr/m/n/9 1979-1998 (top) an-nual pre-cip-i-t
 a-tion and (bot-tom) ice/snow melt bi-ases rel-a-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 \OT1/cmr/m/n/9 to RACMO2.3p2, eval-u-ated on the na-tive model grids. The pre-c
 ip-i-ta-tion bi-ases are ex-pressed as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 \OT1/cmr/m/n/9 frac-tional changes, whereas the melt bi-ases are ab-so-lute cha
 nges (mm/yr). In the bot-tom panel,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 \OT1/cmr/m/n/9 the []Rignot and Moug-inot (2012) basin bound-aries are shown in
  grey for each model grid. Note
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 \OT1/cmr/m/n/9 that Fig-ure 11[] uses the basin bound-aries for the two com-mon
  ice masks, shown in the $\OT1/cmtt/m/n/9 f19$ \OT1/cmr/m/n/9 and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
 \OT1/cmtt/m/n/9 ne30pg2$ \OT1/cmr/m/n/9 pan-els, in com-put-ing the basin-scale
  in-te-grals. Blue lines in the $\OT1/cmtt/m/n/9 f19$ \OT1/cmr/m/n/9 panel show
  the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
 []\OT1/cmr/bx/n/9 Table 3. \OT1/cmr/m/n/9 1979-1998 sur-face mass bal-ance of t
 he Green-land Ice Sheet in Gt/yr. Val-ues shown
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
 \OT1/cmr/m/n/9 are us-ing the com-mon ice mask ap-proach de-scribed in the meth
 -ods sec-tion, whereas val-ues in
  []
@@ -3582,227 +3595,227 @@ Underfull \hbox (badness 10000) in paragraph at lines 463--463
 <temp_tseries_GRIS.pdf, id=99, 540.82472pt x 504.49088pt>
 File: temp_tseries_GRIS.pdf Graphic file (type pdf)
 <use temp_tseries_GRIS.pdf>
-Package pdftex.def Info: temp_tseries_GRIS.pdf  used on input line 469.
+Package pdftex.def Info: temp_tseries_GRIS.pdf  used on input line 470.
 (pdftex.def)             Requested size: 284.52756pt x 265.41592pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
 []\OT1/cmr/bx/n/9 Figure  10. \OT1/cmr/m/n/9 Time-series of an-nual (solid+liqu
 id) pre-cip-i-ta-tion (top) and an-nual runoff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
 \OT1/cmr/m/n/9 (bot-tom) in-te-grated over the Green-land Ice Sheet for all six
  sim-u-la-tions and com-pared to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
 \OT1/cmr/m/n/9 RACMO datasets. The time-series were gen-er-ated us-ing the com-
 mon ice mask ap-proach, which
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
 \OT1/cmr/m/n/9 re-sults in up to 4 en-sem-bles, with the mean value given by th
 e solid line and shad-ing span-ning
  []
 
 
-Overfull \hbox (4.76566pt too wide) in paragraph at lines 475--476
+Overfull \hbox (4.76566pt too wide) in paragraph at lines 476--477
 []\OT1/cmr/m/n/10 Table 3[] shows the 1979-1998 cli-ma-to-log-i-cal SMB com-po-
 nents for each grid, com- 
  []
 
 
-Overfull \hbox (13.0434pt too wide) in paragraph at lines 475--476
+Overfull \hbox (13.0434pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 pared with RACMO. The val-ues in the ta-ble are av-er-ages over
  the en-sem-ble of map-ping 
  []
 
 
-Overfull \hbox (9.54341pt too wide) in paragraph at lines 475--476
+Overfull \hbox (9.54341pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 meth-ods to the com-mon ice masks de-scribed in sec-tion 2.7[],
  and the RACMO val-ues re- 
  []
 
 
-Overfull \hbox (14.57117pt too wide) in paragraph at lines 475--476
+Overfull \hbox (14.57117pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 fer to the av-er-age of both RACMO en-sem-bles. Ta-ble 3[] also
  con-tains (in paren-the-sis) the 
  []
 
 
-Overfull \hbox (10.54355pt too wide) in paragraph at lines 475--476
+Overfull \hbox (10.54355pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 SMB com-po-nents de-rived from eval-u-at-ing the in-te-grals on
  each model's na-tive grid and 
  []
 
 
-Overfull \hbox (10.46011pt too wide) in paragraph at lines 475--476
+Overfull \hbox (10.46011pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 ice mask. Of note is the large re-duc-tion in melt rates com-pa
 red to the val-ues com-puted 
  []
 
 
-Overfull \hbox (4.51573pt too wide) in paragraph at lines 475--476
+Overfull \hbox (4.51573pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 on the na-tive grid, il-lus-trat-ing the dis-si-pa-tion of this
  quan-tity dis-cussed in sec-tion 2.7[]. 
  []
 
 
-Overfull \hbox (2.43233pt too wide) in paragraph at lines 475--476
+Overfull \hbox (2.43233pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 For in-te-grated pre-cip-i-ta-tion, the dif-fer-ences be-tween 
 the na-tive and com-mon ice mask 
  []
 
 
-Overfull \hbox (12.79344pt too wide) in paragraph at lines 475--476
+Overfull \hbox (12.79344pt too wide) in paragraph at lines 476--477
 \OT1/cmr/m/n/10 ap-proaches are much smaller, since the com-bined solid/liquid 
 pre-cip-i-ta-tion rates are not 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1960) has occurred while \output is active []
 
  [16]
-Overfull \hbox (6.6267pt too wide) in paragraph at lines 477--478
+Overfull \hbox (6.6267pt too wide) in paragraph at lines 478--479
 []\OT1/cmr/m/n/10 The coarse grids are char-ac-ter-ized by too much pre-cip-i-t
 a-tion and too much melt- 
  []
 
 
-Overfull \hbox (2.40457pt too wide) in paragraph at lines 477--478
+Overfull \hbox (2.40457pt too wide) in paragraph at lines 478--479
 \OT1/cmr/m/n/10 ing and runoff, com-pared with RACMO. The to-tal SMB on coarse 
 grids there-fore has 
  []
 
 
-Overfull \hbox (24.599pt too wide) in paragraph at lines 477--478
+Overfull \hbox (24.599pt too wide) in paragraph at lines 478--479
 \OT1/cmr/m/n/10 smaller er-rors than the in-di-vid-ual com-po-nents (Ta-ble 3[]
 ), be-cause large er-rors in the source 
  []
 
 
-Overfull \hbox (5.29346pt too wide) in paragraph at lines 477--478
+Overfull \hbox (5.29346pt too wide) in paragraph at lines 478--479
 \OT1/cmr/m/n/10 and sink terms off-set one an-other when added to-gether. Such 
 com-pen-sat-ing er-rors []un- 
  []
 
 
-Overfull \hbox (14.7935pt too wide) in paragraph at lines 477--478
+Overfull \hbox (14.7935pt too wide) in paragraph at lines 478--479
 \OT1/cmr/m/n/10 der-line[] the im-por-tance of un-der-stand-ing the ex-tent to 
 which a model is get-ting the right 
  []
 
 
-Overfull \hbox (12.43231pt too wide) in paragraph at lines 479--480
+Overfull \hbox (12.43231pt too wide) in paragraph at lines 480--481
 []\OT1/cmr/m/n/10 Figure 10[] shows time se-ries of an-nu-ally in-te-grated pre
 -cip-i-ta-tion and snow/ice melt 
  []
 
 
-Overfull \hbox (25.41846pt too wide) in paragraph at lines 479--480
+Overfull \hbox (25.41846pt too wide) in paragraph at lines 480--481
 \OT1/cmr/m/n/10 over the GrIS for the var-i-ous dif-fer-ent grids and dy-cores,
  and RACMO in black. The 1979- 
  []
 
 
-Overfull \hbox (1.90453pt too wide) in paragraph at lines 479--480
+Overfull \hbox (1.90453pt too wide) in paragraph at lines 480--481
 \OT1/cmr/m/n/10 1998 cli-ma-to-log-i-cal mean val-ues from Ta-ble 3[] are shown
  as cir-cles on the right side of 
  []
 
 
-Overfull \hbox (2.21004pt too wide) in paragraph at lines 479--480
+Overfull \hbox (2.21004pt too wide) in paragraph at lines 480--481
 \OT1/cmr/m/n/10 ases, whereas the VR grids have the small-est bi-ases, with pre
 -cip-i-ta-tion com-pa-ra-ble to 
  []
 
 
-Overfull \hbox (30.91777pt too wide) in paragraph at lines 479--480
+Overfull \hbox (30.91777pt too wide) in paragraph at lines 480--481
 \OT1/cmr/m/n/10 RACMO. The $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n/10 and $\OT1/cmt
 t/m/n/10 f09$ \OT1/cmr/m/n/10 grids per-form sim-i-larly, with +110 Gt/yr bias,
  whereas $\OT1/cmtt/m/n/10 ne30pg3$ 
  []
 
 
-Overfull \hbox (1.62675pt too wide) in paragraph at lines 481--482
+Overfull \hbox (1.62675pt too wide) in paragraph at lines 482--483
 []\OT1/cmr/m/n/10 The com-bined an-nual snow/ice melt shown in the bot-tom pane
 l of Fig-ure 10[] in- 
  []
 
 
-Overfull \hbox (14.3764pt too wide) in paragraph at lines 481--482
+Overfull \hbox (14.3764pt too wide) in paragraph at lines 482--483
 \OT1/cmr/m/n/10 di-cates that the $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 gri
 d sim-u-lates the most re-al-is-tic melt rates, with the other grids 
  []
 
 
-Overfull \hbox (14.04295pt too wide) in paragraph at lines 481--482
+Overfull \hbox (14.04295pt too wide) in paragraph at lines 482--483
 \OT1/cmr/m/n/10 hav-ing more melt than RACMO. The $\OT1/cmtt/m/n/10 Arctic \OMS
 /cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid over-predicts melt
 -ing by about 
  []
 
 
-Overfull \hbox (18.4185pt too wide) in paragraph at lines 481--482
+Overfull \hbox (18.4185pt too wide) in paragraph at lines 482--483
 \OT1/cmr/m/n/10 125 Gt/yr. This is likely due to an anoma-lously warm lower tro
 -po-sphere dur-ing the sum- 
  []
 
 
-Overfull \hbox (14.90388pt too wide) in paragraph at lines 481--482
+Overfull \hbox (14.90388pt too wide) in paragraph at lines 482--483
 \OT1/cmr/m/n/10 mer, rel-a-tive to the $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/1
 0 run (Fig-ure 6[]). The $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n/10 and $\OT1/cmtt/
 m/n/10 f09$ \OT1/cmr/m/n/10 melt-ing rates are im-proved 
  []
 
 
-Overfull \hbox (2.51566pt too wide) in paragraph at lines 483--484
+Overfull \hbox (2.51566pt too wide) in paragraph at lines 484--485
 []\OT1/cmr/m/n/10 To il-lus-trate the re-gional be-hav-ior of the SMB com-po-ne
 nts, Fig-ure 11[] shows the 
  []
 
 
-Overfull \hbox (8.01569pt too wide) in paragraph at lines 483--484
+Overfull \hbox (8.01569pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 pre-cip-i-ta-tion and com-bined snow/ice melt in-te-grated over
  the basins de-fined by []Rignot 
  []
 
 
-Overfull \hbox (12.96017pt too wide) in paragraph at lines 483--484
+Overfull \hbox (12.96017pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 and Moug-inot (2012). The un-cer-tainty due to dif-fer-ences in
  basin area is larger than for 
  []
 
 
-Overfull \hbox (28.14069pt too wide) in paragraph at lines 483--484
+Overfull \hbox (28.14069pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 GrIS-wide in-te-grals, ow-ing to the dif-fer-ences in basin bou
 nd-aries on the com-mon ice masks, 
  []
 
 
-Overfull \hbox (4.73729pt too wide) in paragraph at lines 483--484
+Overfull \hbox (4.73729pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 which are shown in the $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n/10 a
 nd $\OT1/cmtt/m/n/10 ne30pg2$ \OT1/cmr/m/n/10 pan-els of Fig-ure 9[]. Nonethe-l
 ess, the re-gional 
  []
 
 
-Overfull \hbox (12.23784pt too wide) in paragraph at lines 483--484
+Overfull \hbox (12.23784pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 to-tals in Fig-ure 11[] cor-rectly show the south-east and sout
 h-west basins have the most ac- 
  []
 
 
-Overfull \hbox (16.96017pt too wide) in paragraph at lines 483--484
+Overfull \hbox (16.96017pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 cu-mu-la-tion. In all basins, ac-cu-mu-la-tion de-creases mono-
 ton-i-cally with in-creas-ing grid res- 
  []
 
 
-Overfull \hbox (8.59898pt too wide) in paragraph at lines 483--484
+Overfull \hbox (8.59898pt too wide) in paragraph at lines 484--485
 \OT1/cmr/m/n/10 ta-tion than RACMO in the central-east and south-east basins, a
 nd is clos-est of all grids 
  []
@@ -3810,239 +3823,239 @@ nd is clos-est of all grids
 <temp_tseries_BASIN.pdf, id=103, 357.10315pt x 498.49599pt>
 File: temp_tseries_BASIN.pdf Graphic file (type pdf)
 <use temp_tseries_BASIN.pdf>
-Package pdftex.def Info: temp_tseries_BASIN.pdf  used on input line 487.
+Package pdftex.def Info: temp_tseries_BASIN.pdf  used on input line 488.
 (pdftex.def)             Requested size: 284.52756pt x 397.19237pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 []\OT1/cmr/bx/n/9 Figure  11. \OT1/cmr/m/n/9 1979--1998 basin in-te-grated com-
 po-nents of the SMB; (top) pre-cip-i-ta-tion, (mid-dle)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \OT1/cmr/m/n/9 ice/snow melt and (bot-tom) ice/snow melt es-ti-mated from the P
 DD method. Whiskers span the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \OT1/cmr/m/n/9 max/min of the four en-sem-ble mem-bers gen-er-ated from the com
 mon-ice-mask ap-proach. Basin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
 \OT1/cmr/m/n/9 def-i-ni-tions are af-ter []Rignot and Moug-inot (2012), and are
  found on the com-mon ice masks us-ing
  []
 
 
-Overfull \hbox (30.96013pt too wide) in paragraph at lines 493--494
+Overfull \hbox (30.96013pt too wide) in paragraph at lines 494--495
 []\OT1/cmr/m/n/10 The basin-integrated melt rates in Fig-ure 11[] de-pend on th
 e dy-core. The []quasi-[]uniform 
  []
 
 
-Overfull \hbox (8.62616pt too wide) in paragraph at lines 493--494
+Overfull \hbox (8.62616pt too wide) in paragraph at lines 494--495
 \OT1/cmr/m/n/10 SE grids have the largest pos-i-tive bi-ases in all basins. The
  $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/
 m/n/10 grid is a close 
  []
 
 
-Overfull \hbox (8.04341pt too wide) in paragraph at lines 493--494
+Overfull \hbox (8.04341pt too wide) in paragraph at lines 494--495
 \OT1/cmr/m/n/10 sec-ond, while the FV grids have sys-tem-at-i-cally []smaller m
 elt-rates and melt-rate bi-ases[]. 
  []
 
 
-Overfull \hbox (9.70956pt too wide) in paragraph at lines 493--494
+Overfull \hbox (9.70956pt too wide) in paragraph at lines 494--495
 \OT1/cmr/m/n/10 The ``second-place" stand-ing of $\OT1/cmtt/m/n/10 Arctic \OMS/
 cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 is some-what un-ex-pecte
 d, as this grid has 
  []
 
 
-Overfull \hbox (3.01563pt too wide) in paragraph at lines 493--494
+Overfull \hbox (3.01563pt too wide) in paragraph at lines 494--495
 \OT1/cmr/m/n/10 the warmest lower-troposphere sum-mer tem-per-a-tures (Fig-ure 
 6[]) and great-est in-ci-dent 
  []
 
 
-Overfull \hbox (8.93239pt too wide) in paragraph at lines 493--494
+Overfull \hbox (8.93239pt too wide) in paragraph at lines 494--495
 \OT1/cmr/m/n/10 short-wave ra-di-a-tion (Fig-ure 8[]), yet it has less melt-ing
  than the quasi-uniform SE grids.  
  []
 
 
-Overfull \hbox (3.82121pt too wide) in paragraph at lines 495--496
+Overfull \hbox (3.82121pt too wide) in paragraph at lines 496--497
 []\OT1/cmr/m/n/10 Lower tro-po-sphere tem-per-a-ture is not a strict proxy for 
 melt-ing; e.g., it may not 
  []
 
 
-Overfull \hbox (1.34895pt too wide) in paragraph at lines 495--496
+Overfull \hbox (1.34895pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 cap-ture mi-cro-cli-mate ef-fects as a re-sult of a bet-ter rep
 -re-sen-ta-tion of the low-elevation 
  []
 
 
-Overfull \hbox (6.65456pt too wide) in paragraph at lines 495--496
+Overfull \hbox (6.65456pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 ab-la-tion zones. The Pos-i-tive Degree-Day temperature-based m
 elt in-dex []PDD; Braith- 
  []
 
 
-Overfull \hbox (9.28088pt too wide) in paragraph at lines 495--496
+Overfull \hbox (9.28088pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 waite, 1984), which ac-cu-mu-lates the near-surface tem-per-a-t
 ure in $[]\OML/cmm/m/it/10 C$ \OT1/cmr/m/n/10 for days with tem- 
  []
 
 
-Overfull \hbox (16.1546pt too wide) in paragraph at lines 495--496
+Overfull \hbox (16.1546pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 per-a-ture above freez-ing, is a more ac-cu-rate proxy for melt
 -ing. PDD is non-lin-ear in mean 
  []
 
 
-Overfull \hbox (15.51575pt too wide) in paragraph at lines 495--496
+Overfull \hbox (15.51575pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 monthly tem-per-a-ture []Reeh, 1991). We com-pute PDD from mont
 hly mean 2-meter tem- 
  []
 
 
-Overfull \hbox (7.3908pt too wide) in paragraph at lines 495--496
+Overfull \hbox (7.3908pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 per-a-ture us-ing the method of []Calov and Greve (2005), as-su
 m-ing a fixed monthly mean 
  []
 
 
-Overfull \hbox (27.73795pt too wide) in paragraph at lines 495--496
+Overfull \hbox (27.73795pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 stan-dard de-vi-a-tion of 3$[]$C and a degree-day fac-tor of 5 
 mm d$[]$ $[]$C$[]$. []This spe-cific degree- 
  []
 
 
-Overfull \hbox (1.62672pt too wide) in paragraph at lines 495--496
+Overfull \hbox (1.62672pt too wide) in paragraph at lines 496--497
 \OT1/cmr/m/n/10 day fac-tor lies be-tween typ-i-cal val-ues re-ported for snow 
 and ice, in or-der to eas-ily ap- 
- []
-
-
-Overfull \hbox (7.04337pt too wide) in paragraph at lines 497--498
-[]\OT1/cmr/m/n/10 Figure 11[]c shows the basin-integrated PDD melt es-ti-mate. 
-In the large south-east 
- []
-
-
-Overfull \hbox (25.65413pt too wide) in paragraph at lines 497--498
-\OT1/cmr/m/n/10 and south-west basins (and all the other west-ern basins), the 
-$\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cmr/m/n/10 grid has larger PDD- 
- []
-
-
-Overfull \hbox (8.48732pt too wide) in paragraph at lines 497--498
-\OT1/cmr/m/n/10 based melt than the $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^
-^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid. The FV grids also have large PD
-D-based melt 
- []
-
-
-Overfull \hbox (4.7095pt too wide) in paragraph at lines 497--498
-\OT1/cmr/m/n/10 in the south-west basin, rel-a-tive to $\OT1/cmtt/m/n/10 Arctic
- \OMS/cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$\OT1/cmr/m/n/10 . The PDD plots in-
-di-cate that the re- 
- []
-
-
-Overfull \hbox (17.09901pt too wide) in paragraph at lines 497--498
-\OT1/cmr/m/n/10 la-tion-ship be-tween tem-per-a-ture and melt is not well ap-pr
-ox-i-mated by the sum-mer lower- 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-Overfull \hbox (3.76558pt too wide) in paragraph at lines 499--500
+Overfull \hbox (7.04337pt too wide) in paragraph at lines 498--499
+[]\OT1/cmr/m/n/10 Figure 11[]c shows the basin-integrated PDD melt es-ti-mate. 
+In the large south-east 
+ []
+
+
+Overfull \hbox (25.65413pt too wide) in paragraph at lines 498--499
+\OT1/cmr/m/n/10 and south-west basins (and all the other west-ern basins), the 
+$\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cmr/m/n/10 grid has larger PDD- 
+ []
+
+
+Overfull \hbox (8.48732pt too wide) in paragraph at lines 498--499
+\OT1/cmr/m/n/10 based melt than the $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^
+^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid. The FV grids also have large PD
+D-based melt 
+ []
+
+
+Overfull \hbox (4.7095pt too wide) in paragraph at lines 498--499
+\OT1/cmr/m/n/10 in the south-west basin, rel-a-tive to $\OT1/cmtt/m/n/10 Arctic
+ \OMS/cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$\OT1/cmr/m/n/10 . The PDD plots in-
+di-cate that the re- 
+ []
+
+
+Overfull \hbox (17.09901pt too wide) in paragraph at lines 498--499
+\OT1/cmr/m/n/10 la-tion-ship be-tween tem-per-a-ture and melt is not well ap-pr
+ox-i-mated by the sum-mer lower- 
+ []
+
+
+Overfull \hbox (3.76558pt too wide) in paragraph at lines 500--501
 []\OT1/cmr/m/n/10 The bot-tom panel of Fig-ure 9[] presents the bi-ases in the 
 com-bined ice/snow melt 
  []
 
 
-Overfull \hbox (29.65454pt too wide) in paragraph at lines 499--500
+Overfull \hbox (29.65454pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 as map plots. These plots show that the largest melt bi-ases ar
 e on the south-east and north- 
  []
 
 
-Overfull \hbox (10.9878pt too wide) in paragraph at lines 499--500
+Overfull \hbox (10.9878pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 west coasts, where large coarse-grid cells over-lap with the oc
 ean. One pos-si-bil-ity is that 
  []
 
 
-Overfull \hbox (7.84888pt too wide) in paragraph at lines 499--500
+Overfull \hbox (7.84888pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 these prob-lem-atic grid cells are sit-u-ated at lower el-e-va-
 tions than the true ice sheet sur- 
  []
 
 
-Overfull \hbox (7.26567pt too wide) in paragraph at lines 499--500
+Overfull \hbox (7.26567pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 face, lead-ing to a warm bias and too much melt. Fig-ure 12[] s
 hows the rep-re-sen-ta-tion of 
  []
 
 
-Overfull \hbox (1.0989pt too wide) in paragraph at lines 499--500
+Overfull \hbox (1.0989pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 the ice sheet sur-face along two tran-sects on the dif-fer-ent 
 grids, com-pared to the high- 
  []
 
 
-Overfull \hbox (4.90465pt too wide) in paragraph at lines 499--500
+Overfull \hbox (4.90465pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 resolution dataset used to gen-er-ate CAM to-po-graphic bound-a
 ry con-di-tions []J. Daniel- 
  []
 
 
-Overfull \hbox (16.41838pt too wide) in paragraph at lines 499--500
+Overfull \hbox (16.41838pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 son & Gesch, 2011; Lau-ritzen et al.[], 2015). The two tran-sec
 ts are shown in Fig-ure 9[]: the 
  []
 
 
-Overfull \hbox (6.19614pt too wide) in paragraph at lines 499--500
+Overfull \hbox (6.19614pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 east-west ``K-transect'' in south-west Green-land and a tran-se
 ct ex-tend-ing from the cen- 
  []
 
 
-Overfull \hbox (3.93233pt too wide) in paragraph at lines 499--500
+Overfull \hbox (3.93233pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 tral dome down to the Kanger-lus-suaq glacier on the south-east
  coast. The $1[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2[]$ grids 
  []
 
 
-Overfull \hbox (13.37668pt too wide) in paragraph at lines 499--500
+Overfull \hbox (13.37668pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 are no-tice-ably coarse, with only a hand-ful of grid cells pop
 -u-lat-ing the tran-sect. The $\OT1/cmtt/m/n/10 f09$ 
  []
 
 
-Overfull \hbox (14.87675pt too wide) in paragraph at lines 499--500
+Overfull \hbox (14.87675pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 grid is a bit of an ex-cep-tion since the grid cells nar-row in
  the zonal di-rec-tion at high lat- 
  []
 
 
-Overfull \hbox (16.98778pt too wide) in paragraph at lines 499--500
+Overfull \hbox (16.98778pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 i-tudes, and so a larger num-ber of grid cells fit into the eas
 t-west tran-sects. The VR grids 
  []
 
 
-Overfull \hbox (4.68225pt too wide) in paragraph at lines 499--500
+Overfull \hbox (4.68225pt too wide) in paragraph at lines 500--501
 \OT1/cmr/m/n/10 more ac-cu-rately re-pro-duce the steep mar-gins of the ice she
 et, cap-tur-ing the char-ac-ter- 
  []
@@ -4050,222 +4063,222 @@ et, cap-tur-ing the char-ac-ter-
 <temp_zsects.pdf, id=107, 538.66742pt x 336.2414pt>
 File: temp_zsects.pdf Graphic file (type pdf)
 <use temp_zsects.pdf>
-Package pdftex.def Info: temp_zsects.pdf  used on input line 504.
+Package pdftex.def Info: temp_zsects.pdf  used on input line 505.
 (pdftex.def)             Requested size: 369.88582pt x 230.88832pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
 []\OT1/cmr/bx/n/9 Figure  12. \OT1/cmr/m/n/9 Model sur-face el-e-va-tion along 
 the (top) K-transect, and (bot-tom) a tran-sect span-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
 \OT1/cmr/m/n/9 ning the cen-tral dome down to the Kanger-lus-suaq glacier in so
 uth-east Green-land, for all model
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
 \OT1/cmr/m/n/9 grids. The GMTED ref-er-ence sur-face is a 1 km sur-face el-e-va
 -tion dataset []J. Daniel-son & Gesch,
  []
 
 
-Overfull \hbox (0.40436pt too wide) in paragraph at lines 511--512
+Overfull \hbox (0.40436pt too wide) in paragraph at lines 512--513
 []\OT1/cmr/m/n/10 The tran-sects in Fig-ure 12[] show that the ice sheet sur-fa
 ce on the coarse grids is 
  []
 
 
-Overfull \hbox (0.93234pt too wide) in paragraph at lines 511--512
+Overfull \hbox (0.93234pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 not sys-tem-at-i-cally lower than the true sur-face in ab-la-ti
 on zones. Rather, the smooth- 
  []
 
 
-Overfull \hbox (7.59909pt too wide) in paragraph at lines 511--512
+Overfull \hbox (7.59909pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 ing and flat-ten-ing of the raw to-pog-ra-phy, nec-es-sary to p
 re-vent the model from ex-cit-ing 
  []
 
 
-Overfull \hbox (8.26566pt too wide) in paragraph at lines 511--512
+Overfull \hbox (8.26566pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 grid-scale nu-mer-i-cal modes, causes the lower-elevation ab-la
 -tion zones to ex-tend be-yond 
  []
 
 
-Overfull \hbox (13.8212pt too wide) in paragraph at lines 511--512
+Overfull \hbox (13.8212pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 the true ice sheet mar-gin, caus-ing the mod-eled ab-la-tion zo
 nes (which must re-side within 
  []
 
 
-Overfull \hbox (0.90428pt too wide) in paragraph at lines 511--512
+Overfull \hbox (0.90428pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 the ice sheet mask) to be el-e-vated rel-a-tive to the ac-tual 
 ice sur-face. The $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n/10 grid has 
  []
 
 
-Overfull \hbox (4.26566pt too wide) in paragraph at lines 511--512
+Overfull \hbox (4.26566pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 both the smoothest to-pog-ra-phy and the flat-test ice sheet si
 nce its dy-nam-ics are coars- 
  []
 
 
-Overfull \hbox (12.26474pt too wide) in paragraph at lines 511--512
+Overfull \hbox (12.26474pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 est, whereas the $\OT1/cmtt/m/n/10 f09$\OT1/cmr/m/n/10 , $\OT1/
 cmtt/m/n/10 ne30pg2$ \OT1/cmr/m/n/10 and $\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cmr/m/
 n/10 grids have sim-i-lar dy-nam-i-cal res-o-lu-tion and 
  []
 
 
-Overfull \hbox (5.90453pt too wide) in paragraph at lines 511--512
+Overfull \hbox (5.90453pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 use iden-ti-cal smooth-ing. This sug-gests that coarser mod-els
  will tend to el-e-vate the ab- 
  []
 
 
-Overfull \hbox (5.62675pt too wide) in paragraph at lines 511--512
+Overfull \hbox (5.62675pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 la-tion zones []rel-a-tive to where they should be, which may b
 e ex-pected to cause anoma- 
  []
 
 
-Overfull \hbox (13.68239pt too wide) in paragraph at lines 511--512
+Overfull \hbox (13.68239pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 lous (adi-a-batic) cool-ing and[] de-pressed melt rates, but th
 is is op-po-site the melt bias that 
  []
 
 
-Overfull \hbox (4.65451pt too wide) in paragraph at lines 511--512
+Overfull \hbox (4.65451pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 oc-curs in the coarse grid sim-u-la-tions. []Also, the EC down-
 scal-ing should be able to cor- 
  []
 
 
-Overfull \hbox (12.26555pt too wide) in paragraph at lines 511--512
+Overfull \hbox (12.26555pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 rect for sit-u-a-tions where model ice sur-face is el-e-vated r
 el-a-tive to the true ice sur-face, al- 
  []
 
 
-Overfull \hbox (6.73788pt too wide) in paragraph at lines 511--512
+Overfull \hbox (6.73788pt too wide) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 though for very large el-e-va-tion dif-fer-ences/errors the EC 
 scheme may not be ad-e-quate[].  
  []
 
 
-Overfull \hbox (5.71016pt too wide) in paragraph at lines 513--514
+Overfull \hbox (5.71016pt too wide) in paragraph at lines 514--515
 []\OT1/cmr/m/n/10 Figure 12[] also shows the ice mar-gin bound-ary, il-lus-trat
 -ing that the ab-la-tion zone 
  []
 
 
-Overfull \hbox (12.0156pt too wide) in paragraph at lines 513--514
+Overfull \hbox (12.0156pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 lies in a nar-row hor-i-zon-tal band where the ice sheet rapidl
 y plunges to sea-level. Due to 
  []
 
 
-Overfull \hbox (10.87683pt too wide) in paragraph at lines 513--514
+Overfull \hbox (10.87683pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 this abrupt tran-si-tion, coarse grids will com-monly rep-re-se
 nt the ab-la-tion zone with grid 
  []
 
 
-Overfull \hbox (15.84892pt too wide) in paragraph at lines 513--514
+Overfull \hbox (15.84892pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 cells con-tain-ing mix-tures of ice-covered and ice-free re-gio
 ns. We hy-poth-e-size that coarser 
  []
 
 
-Overfull \hbox (56.71019pt too wide) in paragraph at lines 513--514
+Overfull \hbox (56.71019pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 mod-els have larger melt bi-ases be-cause sum-mer melt-ing is c
 on-fined to these mixed ice/land/ocean 
  []
 
 
-Overfull \hbox (4.73792pt too wide) in paragraph at lines 513--514
+Overfull \hbox (4.73792pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 grid cells. CLM deals with land het-ero-gene-ity in a com-plex 
 and so-phis-ti-cated man-ner, 
  []
 
 
-Overfull \hbox (2.71008pt too wide) in paragraph at lines 513--514
+Overfull \hbox (2.71008pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 but CAM only sees the ho-mog-e-nized state af-ter []area[] av-e
 r-ag-ing over the sub-grid mix- 
  []
 
 
-Overfull \hbox (3.68228pt too wide) in paragraph at lines 513--514
+Overfull \hbox (3.68228pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 ture. Thus, warm ice-free land patches in a grid cell may un-du
 ly in-flu-ence the cli-mate 
  []
 
 
-Overfull \hbox (10.70998pt too wide) in paragraph at lines 513--514
+Overfull \hbox (10.70998pt too wide) in paragraph at lines 514--515
 \OT1/cmr/m/n/10 over the en-tire grid cell, caus-ing a warm bias over the ice-c
 overed patch []and more melt- 
  []
 
 
-Overfull \hbox (13.34898pt too wide) in paragraph at lines 515--516
+Overfull \hbox (13.34898pt too wide) in paragraph at lines 516--517
 []\OT1/cmr/m/n/10 Figure 13[] shows the mean melt bias, rel-a-tive to both RACM
 O datasets, con-di-tion- 
  []
 
 
-Overfull \hbox (8.77954pt too wide) in paragraph at lines 515--516
+Overfull \hbox (8.77954pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 ally sam-pled based on grid cell ice frac-tion in the GrIS re-g
 ion. Er-rors are com-puted af- 
  []
 
 
-Overfull \hbox (11.68236pt too wide) in paragraph at lines 515--516
+Overfull \hbox (11.68236pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 ter map-ping the melt rates to the com-mon ice masks us-ing dif
 -fer-ent meth-ods, de-scribed 
  []
 
 
-Overfull \hbox (0.46002pt too wide) in paragraph at lines 515--516
+Overfull \hbox (0.46002pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 in sec-tion 2.7[]. The grid cell ice frac-tions there-fore per-
 tain to ice frac-tions on the low- 
  []
 
 
-Overfull \hbox (3.98792pt too wide) in paragraph at lines 515--516
+Overfull \hbox (3.98792pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 resolution com-mon ice masks. Also shown are the $\OMS/cmsy/m/n
 /10 ^^F\OT1/cmr/m/n/10 1$ stan-dard de-vi-a-tion of the bi-ases 
  []
 
 
-Overfull \hbox (3.32115pt too wide) in paragraph at lines 515--516
+Overfull \hbox (3.32115pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 for each bin. The fig-ure shows that coarser grids can be char-
 ac-ter-ized by a mono-tonic 
  []
 
 
-Overfull \hbox (16.34885pt too wide) in paragraph at lines 515--516
+Overfull \hbox (16.34885pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 in-crease in melt bias as the grid cell ice frac-tion de-crease
 s. The VR grids have the small- 
  []
 
 
-Overfull \hbox (21.18234pt too wide) in paragraph at lines 515--516
+Overfull \hbox (21.18234pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 est melt bi-ases for small grid cell ice frac-tions (less than 
 50%), the []quasi-[]uniform SE grids 
  []
 
 
-Overfull \hbox (10.62631pt too wide) in paragraph at lines 515--516
+Overfull \hbox (10.62631pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 and $\OT1/cmtt/m/n/10 f19$ \OT1/cmr/m/n/10 have the largest mel
 t bi-ases and the $\OT1/cmtt/m/n/10 f09$ \OT1/cmr/m/n/10 grid melt bi-ases lie 
 be-tween these two 
  []
 
 
-Overfull \hbox (18.59904pt too wide) in paragraph at lines 515--516
+Overfull \hbox (18.59904pt too wide) in paragraph at lines 516--517
 \OT1/cmr/m/n/10 cases. Fig-ure 13[] gen-er-ally sup-ports our hy-poth-e-sis tha
 t the preva-lence of mixed-grid cells 
  []
@@ -4277,748 +4290,749 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <temp_xy_diffRACMO_melt.pdf, id=111, 543.22057pt x 505.88507pt>
 File: temp_xy_diffRACMO_melt.pdf Graphic file (type pdf)
 <use temp_xy_diffRACMO_melt.pdf>
-Package pdftex.def Info: temp_xy_diffRACMO_melt.pdf  used on input line 520.
+Package pdftex.def Info: temp_xy_diffRACMO_melt.pdf  used on input line 521.
 (pdftex.def)             Requested size: 227.62204pt x 211.97624pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--523
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
 []\OT1/cmr/bx/n/9 Figure  13. \OT1/cmr/m/n/9 Frac-tional melt bias over the GrI
 S, com-puted rel-a-tive to the RACMO datasets
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--523
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
 \OT1/cmr/m/n/9 us-ing the com-mon ice mask ap-proach, and con-di-tion-ally sam-
 pled by grid cell ice frac-tion pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--523
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
 \OT1/cmr/m/n/9 vided by the com-mon ice masks. Solid lines are the mean of the 
 dis-tri-bu-tion with $\OMS/cmsy/m/n/9 ^^F$ \OT1/cmr/m/n/9 one stan-dard
  []
 
 
-Overfull \hbox (13.93234pt too wide) in paragraph at lines 527--528
+Overfull \hbox (13.93234pt too wide) in paragraph at lines 528--529
 []\OT1/cmr/m/n/10 Another po-ten-tial fac-tor in ex-plain-ing the melt dif-fer-
 ences across the grids and dy- 
  []
 
 
-Overfull \hbox (9.18224pt too wide) in paragraph at lines 527--528
+Overfull \hbox (9.18224pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 cores is the sur-face albedo. Bare ice has a lower albedo than 
 snow, so it's rea-son-able to 
  []
 
 
-Overfull \hbox (12.01561pt too wide) in paragraph at lines 527--528
+Overfull \hbox (12.01561pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 spec-u-late whether the large melt bi-ases in the coarse grid s
 im-u-la-tions are in part due to 
  []
 
 
-Overfull \hbox (6.68227pt too wide) in paragraph at lines 527--528
+Overfull \hbox (6.68227pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 more fre-quent bare ice ex-po-sure. One rea-son-able path-way t
 o more bare ice ex-po-sure is 
  []
 
 
-Overfull \hbox (11.07126pt too wide) in paragraph at lines 527--528
+Overfull \hbox (11.07126pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 re-lated to the pre-cip-i-ta-tion and cloud bi-ases. As the lat
 -lon and quasi-uniform grids ac- 
  []
 
 
-Overfull \hbox (4.4462pt too wide) in paragraph at lines 527--528
+Overfull \hbox (4.4462pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 cu-mu-late too much pre-cip-i-ta-tion in the GrIS in-te-rior, i
 t's pos-si-ble the coastal ice mar- 
  []
 
 
-Overfull \hbox (13.21005pt too wide) in paragraph at lines 527--528
+Overfull \hbox (13.21005pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 gins re-ceive too lit-tle snow, which may be more eas-ily melte
 d away to ex-pose the un-der- 
  []
 
 
-Overfull \hbox (2.34892pt too wide) in paragraph at lines 527--528
+Overfull \hbox (2.34892pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 ly-ing glacial ice. The top row of Fig-ure 14[] shows the sum-m
 er snow cover bias rel-a-tive 
  []
 
 
-Overfull \hbox (12.18231pt too wide) in paragraph at lines 527--528
+Overfull \hbox (12.18231pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 to ERA5. There is no in-di-ca-tion that the coastal re-gions ha
 ve lower snow frac-tions, and 
  []
 
 
-Overfull \hbox (15.5295pt too wide) in paragraph at lines 527--528
+Overfull \hbox (15.5295pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 more bare ice ex-po-sure, com-pared with the VR runs. In south-
 east Green-land, the coarse 
  []
 
 
-Overfull \hbox (22.96008pt too wide) in paragraph at lines 527--528
+Overfull \hbox (22.96008pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 runs have anoma-lously high snow cover rel-a-tive to the VR run
 s. In south-west and central- 
  []
 
 
-Overfull \hbox (3.91843pt too wide) in paragraph at lines 527--528
+Overfull \hbox (3.91843pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 west Green-land, the snow cover is anoma-lously low, but ar-gua
 bly no more so than oc- 
  []
 
 
-Overfull \hbox (5.62672pt too wide) in paragraph at lines 527--528
+Overfull \hbox (5.62672pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 curs in the VR runs. And in com-bin-ing these re-sults wih the 
 pre-cip-i-ta-tion bi-ases (Fig- 
  []
 
 
-Overfull \hbox (13.93236pt too wide) in paragraph at lines 527--528
+Overfull \hbox (13.93236pt too wide) in paragraph at lines 528--529
 \OT1/cmr/m/n/10 ure 13[]), there just isn't much sup-port for a re-duc-tion in 
 snow-fall and snow cover around 
  []
 
 
-Overfull \hbox (7.46011pt too wide) in paragraph at lines 529--530
+Overfull \hbox (7.46011pt too wide) in paragraph at lines 530--531
 []\OT1/cmr/m/n/10 The mid-dle and bot-tom rows of Fig-ure 14[] show maps of sum
 -mer albedo bi-ases in 
  []
 
 
-Overfull \hbox (11.84904pt too wide) in paragraph at lines 529--530
+Overfull \hbox (11.84904pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 the sim-u-la-tions, rel-a-tive to the RACMO2.3p2 and the pro-ce
 ssed MODIS albedo dataset 
  []
 
 
-Overfull \hbox (2.3768pt too wide) in paragraph at lines 529--530
+Overfull \hbox (2.3768pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 of []Tedesco and Alexan-der (2013). The model sur-face albedo i
 s di-ag-nosed from the in- 
  []
 
 
-Overfull \hbox (9.18233pt too wide) in paragraph at lines 529--530
+Overfull \hbox (9.18233pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 ci-dent and net short-wave ra-dia-tive fluxes at the sur-face. 
 While RACMO2.3p2 in-di-cates 
  []
 
 
-Overfull \hbox (13.37679pt too wide) in paragraph at lines 529--530
+Overfull \hbox (13.37679pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 that the albedo near the south-west/southeast coastal mar-gins 
 is lower in the lat-lon and 
  []
 
 
-Overfull \hbox (15.01569pt too wide) in paragraph at lines 529--530
+Overfull \hbox (15.01569pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 quasi-uniform grids rel-a-tive to the VR grids, the MODIS datas
 et does not show that the 
  []
 
 
-Overfull \hbox (2.15453pt too wide) in paragraph at lines 529--530
+Overfull \hbox (2.15453pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 VR grids have a sub-stan-tially dif-fer-ent albedo from the coa
 rse grids. We do ob-serve a 
  []
 
 
-Overfull \hbox (5.87686pt too wide) in paragraph at lines 529--530
+Overfull \hbox (5.87686pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/10 per-sis-tent pos-i-tive albedo bias in the north-west in all gr
 ids, in both val-i-da-tion dataset, 
  []
 
-<temp_contours_diffALB.pdf, id=112, 521.08244pt x 456.66177pt>
+<temp_contours_diffALB.pdf, id=112, 520.97572pt x 456.9623pt>
 File: temp_contours_diffALB.pdf Graphic file (type pdf)
 <use temp_contours_diffALB.pdf>
-Package pdftex.def Info: temp_contours_diffALB.pdf  used on input line 534.
-(pdftex.def)             Requested size: 369.88582pt x 324.16243pt.
+Package pdftex.def Info: temp_contours_diffALB.pdf  used on input line 535.
+(pdftex.def)             Requested size: 369.88582pt x 324.43852pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--537
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
 []\OT1/cmr/bx/n/9 Figure  14. \OT1/cmr/m/n/9 (Top) 1979-1998 bias in north-ern 
 hemi-sphere sum-mer snow cover (frac-tion) rel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--537
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
 \OT1/cmr/m/n/9 a-tive to ERA4. (Mid-dle and bot-tom) 1979-1998 sum-mer albedo b
 ias (frac-tion), com-puted as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--537
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
 \OT1/cmr/m/n/9 the dif-fer-ence (mid-dle) from RACMO2.3p2, and (bot-tom) the MO
 DIS dataset of []Tedesco and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--537
-\OT1/cmr/m/n/9 Alexan-der (2013). As all ob-ser-va-tional datasets in this plot
- are on high-resolution grids, they've
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+\OT1/cmr/m/n/9 Alexan-der (2013). All model and val-i-da-tion data have been ma
+pped to the $\OT1/cmtt/m/n/9 f19$ \OT1/cmr/m/n/9 grid to fa-cil-i-tate
  []
 
 
-Overfull \hbox (5.14034pt too wide) in paragraph at lines 543--544
+Overfull \hbox (5.14034pt too wide) in paragraph at lines 544--545
 \OT1/cmr/m/n/10 tion soft-ware []Ullrich et al.[], 2021). As the $\OT1/cmtt/m/n
 /10 Arctic$ \OT1/cmr/m/n/10 grid con-tains $1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 
 4[]$ re-fine-ment north 
  []
 
 
-Overfull \hbox (34.11226pt too wide) in paragraph at lines 543--544
+Overfull \hbox (34.11226pt too wide) in paragraph at lines 544--545
 \OT1/cmr/m/n/10 of about $45[]$ lat-i-tude, the storm tracker is ap-plied to th
 is re-gion for the $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 and $\OT1/cmtt/m/n
 /10 ne30pg3$ 
  []
 
 
-Overfull \hbox (4.65466pt too wide) in paragraph at lines 545--546
+Overfull \hbox (4.65466pt too wide) in paragraph at lines 546--547
 []\OT1/cmr/m/n/10 Figure 15[] shows monthly PDF [](prob-a-bil-ity den-sity func
 -tion)[] of the pre-cip-i-ta-tion 
  []
 
 
-Overfull \hbox (6.12674pt too wide) in paragraph at lines 545--546
+Overfull \hbox (6.12674pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 rates as-so-ci-ated with storms. The PDFs are con-structed by s
 am-pling all the pre-cip-i-ta- 
  []
 
 
-Overfull \hbox (4.52956pt too wide) in paragraph at lines 545--546
+Overfull \hbox (4.52956pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 tion rates within $30[]$ of the storm cen-ter, for each point o
 n the storm track and for all 
  []
 
 
-Overfull \hbox (19.71016pt too wide) in paragraph at lines 545--546
+Overfull \hbox (19.71016pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 storms. The PDFs are eval-u-ated on an iden-ti-cal com-pos-ite 
 grid for all runs, and so storm 
  []
 
 
-Overfull \hbox (19.90424pt too wide) in paragraph at lines 545--546
+Overfull \hbox (19.90424pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 statis-tics are not im-pacted by dif-fer-ences in out-put res-o
 -lu-tion. The $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 run has larger 
  []
 
 
-Overfull \hbox (27.2375pt too wide) in paragraph at lines 545--546
+Overfull \hbox (27.2375pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 ex-treme pre-cip-i-ta-tion rates com-pared to $\OT1/cmtt/m/n/10
  ne30pg3$ \OT1/cmr/m/n/10 in ev-ery month, but the in-crease is great- 
  []
 
 
-Overfull \hbox (0.54335pt too wide) in paragraph at lines 545--546
+Overfull \hbox (0.54335pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 est in the sum-mer months, which co-in-cides with the most ex-t
 reme events of the year. 
  []
 
 
-Overfull \hbox (10.65453pt too wide) in paragraph at lines 545--546
+Overfull \hbox (10.65453pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/10 This is pri-mar-ily due to in-creased res-o-lu-tion and not the
  re-duced physics time step; the 
  []
 
 
-Overfull \hbox (6.83476pt too wide) in paragraph at lines 545--546
+Overfull \hbox (6.83476pt too wide) in paragraph at lines 546--547
 \OT1/cmtt/m/n/10 ne30pg3[]$ \OT1/cmr/m/n/10 run only marginally in-creases the 
 ex-treme pre-cip-i-ta-tion rates com-pared with 
  []
 
 
-Overfull \hbox (8.76485pt too wide) in paragraph at lines 547--548
+Overfull \hbox (8.76485pt too wide) in paragraph at lines 548--549
 []\OT1/cmr/m/n/10 The ex-treme pre-cip-i-ta-tion rates in the $\OT1/cmtt/m/n/10
  Arctic$ \OT1/cmr/m/n/10 run are closer than $\OT1/cmtt/m/n/10 ne30pg3$ \OT1/cm
 r/m/n/10 to the 
  []
 
 
-Overfull \hbox (13.32126pt too wide) in paragraph at lines 547--548
+Overfull \hbox (13.32126pt too wide) in paragraph at lines 548--549
 \OT1/cmr/m/n/10 ERA5 re-anal-y-sis (Fig-ure 15[]). It is dif-fi-cult to know ho
 w much the ex-treme pre-cip-i-ta-tion 
  []
 
 
-Overfull \hbox (13.71011pt too wide) in paragraph at lines 547--548
+Overfull \hbox (13.71011pt too wide) in paragraph at lines 548--549
 \OT1/cmr/m/n/10 rates in ERA5 are con-strained by data as-sim-i-la-tion, or whe
 ther these pre-cip-i-ta-tion rates 
  []
 
 
-Overfull \hbox (19.33475pt too wide) in paragraph at lines 547--548
+Overfull \hbox (19.33475pt too wide) in paragraph at lines 548--549
 \OT1/cmr/m/n/10 are due to us-ing a sim-i-lar $1\OML/cmm/m/it/10 =\OT1/cmr/m/n/
 10 4[]$ model as the $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid. How-ever, 
 it is well doc-u-mented 
  []
 
 
-Overfull \hbox (14.69629pt too wide) in paragraph at lines 547--548
+Overfull \hbox (14.69629pt too wide) in paragraph at lines 548--549
 \OT1/cmr/m/n/10 that $1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 4[]$ mod-els are more 
 skill-ful at sim-u-lat-ing ex-treme events []Bacmeister et al.[], 2013; 
  []
 
 
-Overfull \hbox (3.3212pt too wide) in paragraph at lines 547--548
+Overfull \hbox (3.3212pt too wide) in paragraph at lines 548--549
 \OT1/cmr/m/n/10 Obrien et al.[], 2016). A more re-al-is-tic rep-re-sen-ta-tion 
 of ex-treme pre-cip-i-ta-tion events is 
- []
-
-<temp_composite_ge45N_pdf.pdf, id=113, 546.14102pt x 431.2089pt>
-File: temp_composite_ge45N_pdf.pdf Graphic file (type pdf)
-<use temp_composite_ge45N_pdf.pdf>
-Package pdftex.def Info: temp_composite_ge45N_pdf.pdf  used on input line 551.
-(pdftex.def)             Requested size: 369.88582pt x 292.04697pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
-[]\OT1/cmr/bx/n/9 Figure  15. \OT1/cmr/m/n/9 PDFs of the to-tal pre-cip-i-ta-ti
-on rate as-so-ci-ated with tracked storms, by month, in
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
-Overfull \hbox (21.46017pt too wide) in paragraph at lines 559--560
+<temp_composite_ge45N_pdf.pdf, id=117, 546.14102pt x 431.2089pt>
+File: temp_composite_ge45N_pdf.pdf Graphic file (type pdf)
+<use temp_composite_ge45N_pdf.pdf>
+Package pdftex.def Info: temp_composite_ge45N_pdf.pdf  used on input line 552.
+(pdftex.def)             Requested size: 369.88582pt x 292.04697pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
+[]\OT1/cmr/bx/n/9 Figure  15. \OT1/cmr/m/n/9 PDFs of the to-tal pre-cip-i-ta-ti
+on rate as-so-ci-ated with tracked storms, by month, in
+ []
+
+
+Overfull \hbox (21.46017pt too wide) in paragraph at lines 560--561
 []\OT1/cmr/m/n/10 Running CESM2.2 in an AMIP-style con-fig-u-ra-tion, we have e
 val-u-ated six grids from 
  []
 
 
-Overfull \hbox (1.91843pt too wide) in paragraph at lines 559--560
+Overfull \hbox (1.91843pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 two dy-nam-i-cal cores for their per-for-mance over the Arc-tic
  and in sim-u-lat-ing the GrIS 
  []
 
 
-Overfull \hbox (2.48787pt too wide) in paragraph at lines 559--560
+Overfull \hbox (2.48787pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 to their con-ver-gence of merid-ian lines, al-though a po-lar f
 il-ter is used to pre-vent spu-ri- 
  []
 
 
-Overfull \hbox (12.54346pt too wide) in paragraph at lines 559--560
+Overfull \hbox (12.54346pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 ous at-mo-spheric fea-tures from form-ing in these re-gions. SE
  grids com-pa-ra-ble to the res- 
  []
 
 
-Overfull \hbox (13.32121pt too wide) in paragraph at lines 559--560
+Overfull \hbox (13.32121pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 o-lu-tion of the FV grids have an isotropic grid struc-ture whe
 re the grid res-o-lu-tion is sim- 
  []
 
 
-Overfull \hbox (17.40457pt too wide) in paragraph at lines 559--560
+Overfull \hbox (17.40457pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 i-lar over the en-tire model do-main. We de-vel-oped two VR gri
 ds and in-tro-duced them into 
  []
 
 
-Overfull \hbox (15.057pt too wide) in paragraph at lines 559--560
+Overfull \hbox (15.057pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 CESM2.2 as part of this work. Both use the SE dy-core; the $\OT
 1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid has $1\OML/cmm/m/it/10 =\OT1/cmr/m/n
 /10 4[]$ re-fine- 
  []
 
 
-Overfull \hbox (2.3348pt too wide) in paragraph at lines 559--560
+Overfull \hbox (2.3348pt too wide) in paragraph at lines 560--561
 \OT1/cmr/m/n/10 a $1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 8[]$ patch of re-fine-men
 t over Green-land. A third VR grid, $\OT1/cmtt/m/n/10 CONUS$\OT1/cmr/m/n/10 , [
 ]with $1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 8[]$ re-fine- 
  []
 
 
-Overfull \hbox (0.76553pt too wide) in paragraph at lines 561--562
+Overfull \hbox (0.76553pt too wide) in paragraph at lines 562--563
 []\OT1/cmr/m/n/10 In gen-eral, the FV grids have colder sum-mer tem-per-a-tures
  over the Arc-tic com- 
  []
 
 
-Overfull \hbox (16.26569pt too wide) in paragraph at lines 561--562
+Overfull \hbox (16.26569pt too wide) in paragraph at lines 562--563
 \OT1/cmr/m/n/10 pared with the SE grids (in-clud-ing the VR grids). The cloud b
 i-ases in all the []lat-lon and 
  []
 
 
-Overfull \hbox (21.40466pt too wide) in paragraph at lines 561--562
+Overfull \hbox (21.40466pt too wide) in paragraph at lines 562--563
 \OT1/cmr/m/n/10 quasi-[]uniform res-o-lu-tion grids, whether FV or SE, are sim-
 i-lar, in gen-eral be-ing too cloudy 
  []
 
 
-Overfull \hbox (17.4045pt too wide) in paragraph at lines 561--562
+Overfull \hbox (17.4045pt too wide) in paragraph at lines 562--563
 \OT1/cmr/m/n/10 over Arc-tic land masses. It should be em-pha-sized that our an
 al-y-sis is spe-cific to the Arc- 
  []
 
 
-Overfull \hbox (5.39061pt too wide) in paragraph at lines 561--562
+Overfull \hbox (5.39061pt too wide) in paragraph at lines 562--563
 \OT1/cmr/m/n/10 tic sum-mer be-cause of its rel-e-vance to GrIS melt rates. An 
 im-proved rep-re-sen-ta-tion of 
  []
 
 
-Overfull \hbox (5.82117pt too wide) in paragraph at lines 563--564
+Overfull \hbox (5.82117pt too wide) in paragraph at lines 564--565
 []\OT1/cmr/m/n/10 At the re-gional level, there is a halo of neg-a-tive cloudi-
 ness bias around the ocean 
  []
 
 
-Overfull \hbox (4.51563pt too wide) in paragraph at lines 563--564
+Overfull \hbox (4.51563pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 bias con-trasts with a pos-i-tive cloud bias over the ice sheet
  in-te-rior. This anomaly pat- 
  []
 
 
-Overfull \hbox (9.4046pt too wide) in paragraph at lines 563--564
+Overfull \hbox (9.4046pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 tern is at-tributed to de-fi-cient oro-graphic pre-cip-i-ta-tio
 n in the coarser model grids. With 
  []
 
 
-Overfull \hbox (5.79358pt too wide) in paragraph at lines 563--564
+Overfull \hbox (5.79358pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 overly smooth to-pog-ra-phy on the $1 \OMS/cmsy/m/n/10 ^^@ \OT1
 /cmr/m/n/10 2[]$ grids, syn-op-tic sys-tems mov-ing into Green-land 
  []
 
 
-Overfull \hbox (2.01556pt too wide) in paragraph at lines 563--564
+Overfull \hbox (2.01556pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 are not suf-fi-ciently lifted when en-coun-ter-ing the steep ic
 e mar-gins. As a re-sult, ex-cess 
  []
 
 
-Overfull \hbox (16.39069pt too wide) in paragraph at lines 563--564
+Overfull \hbox (16.39069pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 pre-cip-i-ta-tion falls in the GrIS in-te-rior, in-stead of be-
 ing con-cen-trated on the steep coastal 
  []
 
 
-Overfull \hbox (27.72417pt too wide) in paragraph at lines 563--564
+Overfull \hbox (27.72417pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 mar-gins as shown by ob-ser-va-tions []Pollard & Groups, 2000; 
 Van Kam-p-en-hout et al.[], 2019). 
  []
 
 
-Overfull \hbox (17.51567pt too wide) in paragraph at lines 563--564
+Overfull \hbox (17.51567pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 This re-sults in a pos-i-tive pre-cip-i-ta-tion and cloud bias 
 in the ice sheet in-te-rior, and a halo 
  []
 
 
-Overfull \hbox (25.12688pt too wide) in paragraph at lines 563--564
+Overfull \hbox (25.12688pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 of low cloud bias about the perime-ter. The agree-ment of dif-f
 er-ent ob-ser-va-tional data prod- 
  []
 
 
-Overfull \hbox (1.57117pt too wide) in paragraph at lines 563--564
+Overfull \hbox (1.57117pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 ucts on this bias lends con-fi-dence in the at-tri-bu-tion of c
 auses. The VR grids com-pare 
  []
 
 
-Overfull \hbox (16.4463pt too wide) in paragraph at lines 563--564
+Overfull \hbox (16.4463pt too wide) in paragraph at lines 564--565
 \OT1/cmr/m/n/10 bet-ter to the ob-ser-va-tions and show that oro-graphic pre-ci
 p-i-ta-tion in Green-land is largely 
  []
 
 
-Overfull \hbox (23.58508pt too wide) in paragraph at lines 565--566
+Overfull \hbox (23.58508pt too wide) in paragraph at lines 566--567
 []\OT1/cmr/m/n/10 We in-te-grated the pri-mary source and sink terms of the SMB
  equa-tion over the GrIS 
  []
 
 
-Overfull \hbox (16.62682pt too wide) in paragraph at lines 565--566
+Overfull \hbox (16.62682pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 tive ac-cu-mu-la-tion bi-ases be-cause they fail to re-solve or
 o-graphic pre-cip-i-ta-tion. The quasi- 
  []
 
 
-Overfull \hbox (16.48795pt too wide) in paragraph at lines 565--566
+Overfull \hbox (16.48795pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 uniform SE grids have larger ac-cu-mu-la-tion bi-ases, sug-gest
 -ing that the FV grids are more 
  []
 
 
-Overfull \hbox (5.00183pt too wide) in paragraph at lines 565--566
+Overfull \hbox (5.00183pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 skill-ful for pre-cip-i-ta-tion due to finer res-o-lu-tion over
  Green-land, and de-spite a po-lar fil- 
  []
 
 
-Overfull \hbox (7.04337pt too wide) in paragraph at lines 565--566
+Overfull \hbox (7.04337pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 ter. The VR grids have the most ac-cu-rate ac-cu-mu-la-tion rat
 es of all the grids. The pri- 
  []
 
 
-Overfull \hbox (18.14063pt too wide) in paragraph at lines 565--566
+Overfull \hbox (18.14063pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 mary mass sink term of the GrIS, ice/snow melt, has sim-i-lar b
 i-ases; the coarse grids melt 
  []
 
 
-Overfull \hbox (14.68233pt too wide) in paragraph at lines 565--566
+Overfull \hbox (14.68233pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 too much, with a greater bias for quasi-uniform SE grids. In ge
 n-eral, on coarse grids, er- 
  []
 
 
-Overfull \hbox (22.82124pt too wide) in paragraph at lines 565--566
+Overfull \hbox (22.82124pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 rors in the in-di-vid-ual SMB terms are larger than the er-rors
  in the SMB it-self, due to com- 
  []
 
 
-Overfull \hbox (1.79341pt too wide) in paragraph at lines 565--566
+Overfull \hbox (1.79341pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 pen-sat-ing er-rors. This ob-ser-va-tion serves as a pre-cau-ti
 on; pro-ject-ing mass-loss from a 
  []
 
 
-Overfull \hbox (16.18224pt too wide) in paragraph at lines 565--566
+Overfull \hbox (16.18224pt too wide) in paragraph at lines 566--567
 \OT1/cmr/m/n/10 glacier or ice sheet can-not be re-li-able if the pro-cesses re
 p-re-sent-ing the com-po-nents of the 
  []
 
 
-Overfull \hbox (11.76566pt too wide) in paragraph at lines 567--568
+Overfull \hbox (11.76566pt too wide) in paragraph at lines 568--569
 \OT1/cmr/m/n/10 grid res-o-lu-tion is some-how con-tribut-ing to the melt bi-as
 es in coarse grids, in a way that 
  []
 
 
-Overfull \hbox (17.68231pt too wide) in paragraph at lines 567--568
+Overfull \hbox (17.68231pt too wide) in paragraph at lines 568--569
 \OT1/cmr/m/n/10 is not ob-vi-ous from the large-scale dy-nam-ics. We pro-pose a
  mech-a-nism: coarse grids rep- 
  []
 
 
-Overfull \hbox (9.21pt too wide) in paragraph at lines 567--568
+Overfull \hbox (9.21pt too wide) in paragraph at lines 568--569
 \OT1/cmr/m/n/10 re-sent ab-la-tion zones us-ing grid cells with mixed sur-face 
 types, ice-covered and ice-free. 
  []
 
 
-Overfull \hbox (4.29337pt too wide) in paragraph at lines 567--568
+Overfull \hbox (4.29337pt too wide) in paragraph at lines 568--569
 \OT1/cmr/m/n/10 The warmer ice-free patches may largely de-ter-mine the mean st
 ate, lead-ing to a warm 
  []
 
 
-Overfull \hbox (10.29335pt too wide) in paragraph at lines 567--568
+Overfull \hbox (10.29335pt too wide) in paragraph at lines 568--569
 \OT1/cmr/m/n/10 bias over the ice-covered patches of the grid cell. This mech-a
 -nism is sup-ported by anal- 
  []
 
 
-Overfull \hbox (1.68236pt too wide) in paragraph at lines 567--568
+Overfull \hbox (1.68236pt too wide) in paragraph at lines 568--569
 \OT1/cmr/m/n/10 y-sis of melt bi-ases binned by grid-cell ice frac-tion, []al-t
 hough fur-ther test-ing of this hy- 
- []
-
-
-Overfull \hbox (18.73755pt too wide) in paragraph at lines 569--570
-[]\OT1/cmr/m/n/10 The $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid sub-stan-t
-ially im-proves the sim-u-lated Arc-tic cli-mate, in-clud-ing pre- 
- []
-
-
-Overfull \hbox (18.91856pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 cip-i-ta-tion ex-tremes and the GrIS SMB, com-pared to the []$1
-[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2[]$ lat-lon and quasi-uniform[] 
- []
-
-
-Overfull \hbox (4.95958pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 grids. The $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1/c
-mtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid has the most re-al-is-tic cloud and pre-c
-ip-i-ta-tion fields, but 
- []
-
-
-Overfull \hbox (6.5851pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 its sum-mer tem-per-a-tures are too warm. The $1[]$ FV model gi
-ves a sur-pris-ingly re-al-is-tic 
- []
-
-
-Overfull \hbox (7.52962pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 SMB, likely due to the rel-a-tively fine res-o-lu-tion of Green
--land on lat-lon grids (but per- 
- []
-
-
-Overfull \hbox (2.26572pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 haps also be-cause it is the most heav-ily tuned model con-fig-
-u-ra-tion in CESM). In par- 
- []
-
-
-Overfull \hbox (16.23788pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 tic-u-lar, a greater num-ber of grid cells in the ab-la-tion zo
-ne re-duces the in-flu-ence of mixed 
- []
-
-
-Overfull \hbox (24.93233pt too wide) in paragraph at lines 569--570
-\OT1/cmr/m/n/10 ice-covered/ice-free grid cells that rep-re-sent ab-la-tion poo
-rly on the other []lat-lon and quasi- 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-Overfull \hbox (13.04344pt too wide) in paragraph at lines 571--572
+Overfull \hbox (18.73755pt too wide) in paragraph at lines 570--571
+[]\OT1/cmr/m/n/10 The $\OT1/cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid sub-stan-t
+ially im-proves the sim-u-lated Arc-tic cli-mate, in-clud-ing pre- 
+ []
+
+
+Overfull \hbox (18.91856pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 cip-i-ta-tion ex-tremes and the GrIS SMB, com-pared to the []$1
+[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2[]$ lat-lon and quasi-uniform[] 
+ []
+
+
+Overfull \hbox (4.95958pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 grids. The $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1/c
+mtt/m/n/10 GrIS$ \OT1/cmr/m/n/10 grid has the most re-al-is-tic cloud and pre-c
+ip-i-ta-tion fields, but 
+ []
+
+
+Overfull \hbox (6.5851pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 its sum-mer tem-per-a-tures are too warm. The $1[]$ FV model gi
+ves a sur-pris-ingly re-al-is-tic 
+ []
+
+
+Overfull \hbox (7.52962pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 SMB, likely due to the rel-a-tively fine res-o-lu-tion of Green
+-land on lat-lon grids (but per- 
+ []
+
+
+Overfull \hbox (2.26572pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 haps also be-cause it is the most heav-ily tuned model con-fig-
+u-ra-tion in CESM). In par- 
+ []
+
+
+Overfull \hbox (16.23788pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 tic-u-lar, a greater num-ber of grid cells in the ab-la-tion zo
+ne re-duces the in-flu-ence of mixed 
+ []
+
+
+Overfull \hbox (24.93233pt too wide) in paragraph at lines 570--571
+\OT1/cmr/m/n/10 ice-covered/ice-free grid cells that rep-re-sent ab-la-tion poo
+rly on the other []lat-lon and quasi- 
+ []
+
+
+Overfull \hbox (13.04344pt too wide) in paragraph at lines 572--573
 []\OT1/cmr/m/n/10 As mod-el-ing sys-tems move away from lat-lon grids to-wards 
 quasi-uniform un-struc- 
  []
 
 
-Overfull \hbox (13.07123pt too wide) in paragraph at lines 571--572
+Overfull \hbox (13.07123pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 tured grids, it is worth tak-ing stock of whether this will de-
 grade the sim-u-lated po-lar cli- 
  []
 
 
-Overfull \hbox (9.21014pt too wide) in paragraph at lines 571--572
+Overfull \hbox (9.21014pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 mate. We have found that the $1[]$ FV model has clear ad-van-ta
 ges over the $1[]$ SE model 
  []
 
 
-Overfull \hbox (14.3629pt too wide) in paragraph at lines 571--572
+Overfull \hbox (14.3629pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 for sim-u-lat-ing the GrIS SMB. []The SE dy-core is still un-de
 r ac-tive de-vel-op-ment (e.g., Ap- 
  []
 
 
-Overfull \hbox (0.73798pt too wide) in paragraph at lines 571--572
+Overfull \hbox (0.73798pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 pendix A[]) com-pared to the more ma-ture FV dy-core, and fu-tu
 re al-go-rith-mic im-prove- 
  []
 
 
-Overfull \hbox (11.22394pt too wide) in paragraph at lines 571--572
+Overfull \hbox (11.22394pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 ments may re-duce the FV-SE GrIS SMB skill gap. How-ever, such 
 de-vel-op-ments are un- 
  []
 
 
-Overfull \hbox (11.62672pt too wide) in paragraph at lines 571--572
+Overfull \hbox (11.62672pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 likely to elim-i-nate this skill gap en-tirely due to the fewer
  num-ber of grid cells rep-re-sent- 
  []
 
 
-Overfull \hbox (1.55737pt too wide) in paragraph at lines 571--572
+Overfull \hbox (1.55737pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 ing high lat-i-tude struc-tures on quasi-uniform un-struc-tured
  grids.[] The sim-u-lated GrIS 
  []
 
 
-Overfull \hbox (15.68236pt too wide) in paragraph at lines 571--572
+Overfull \hbox (15.68236pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 SMB will be ad-versely im-pacted in fu-ture CESM ver-sions, af-
 ter the FV dy-core is phased 
  []
 
 
-Overfull \hbox (1.71019pt too wide) in paragraph at lines 571--572
+Overfull \hbox (1.71019pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 out. This find-ing will not in-ter-rupt the on-go-ing tran-si-t
 ion to-wards un-struc-tured grids 
  []
 
 
-Overfull \hbox (2.43237pt too wide) in paragraph at lines 571--572
+Overfull \hbox (2.43237pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 in CESM, which is largely driven by gains in com-pu-ta-tional e
 f-fi-ciency and grid re-fine- 
  []
 
 
-Overfull \hbox (9.04341pt too wide) in paragraph at lines 571--572
+Overfull \hbox (9.04341pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 ment ca-pa-bil-i-ties. We there-fore pro-vide the Arc-tic refin
 ed-meshes to the com-mu-nity by 
  []
 
 
-Overfull \hbox (9.72403pt too wide) in paragraph at lines 571--572
+Overfull \hbox (9.72403pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 way of CESM2.2, pro-vid-ing users the op-tion to sim-u-late a m
 ore re-al-is-tic GrIS SMB, al- 
  []
 
 
-Overfull \hbox (0.12692pt too wide) in paragraph at lines 571--572
+Overfull \hbox (0.12692pt too wide) in paragraph at lines 572--573
 \OT1/cmr/m/n/10 though at a sub-stan-tial com-pu-ta-tional pre-mium rel-a-tive 
 to con-ven-tional $1[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2[]$ grids.  
  []
 
 
-Overfull \hbox (11.3487pt too wide) in paragraph at lines 573--574
+Overfull \hbox (11.3487pt too wide) in paragraph at lines 574--575
 []\OT1/cmr/m/n/10 We are work-ing to de-velop a con-fig-u-ra-tion of the $\OT1/
 cmtt/m/n/10 Arctic$ \OT1/cmr/m/n/10 grid that is fully-coupled 
  []
 
 
-Overfull \hbox (33.98793pt too wide) in paragraph at lines 573--574
+Overfull \hbox (33.98793pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 with the CESM ocean and sea ice com-po-nents and the Com-mu-nit
 y Ice Sheet Model (CISM), 
  []
 
 
-Overfull \hbox (13.6129pt too wide) in paragraph at lines 573--574
+Overfull \hbox (13.6129pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 to pro-vide multi-century pro-jec-tions of the state of the GrI
 S and its con-tri-bu-tion to sea- 
  []
 
 
-Overfull \hbox (2.29288pt too wide) in paragraph at lines 573--574
+Overfull \hbox (2.29288pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 level rise. We have also de-vel-oped a vi-su-al-iza-tion of the
  $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$ \OT1/cmr/
 m/n/10 run, now avail- 
  []
 
 
-Overfull \hbox (0.73782pt too wide) in paragraph at lines 573--574
+Overfull \hbox (0.73782pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 able on youtube (see link in Ac-knowl-edge-ments) to in-crease 
 aware-ness of the ca-pa-bil- 
  []
 
 
-Overfull \hbox (16.84909pt too wide) in paragraph at lines 573--574
+Overfull \hbox (16.84909pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 i-ties of CESM2.2. Fig-ure 16[] shows a snap-shot of this vi-su
 -al-iza-tion, il-lus-trat-ing mesoscale 
  []
 
 
-Overfull \hbox (21.5573pt too wide) in paragraph at lines 573--574
+Overfull \hbox (21.5573pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 kata-batic winds de-scend-ing the south-east-ern slopes of the 
 GrIS. These new grids and con- 
  []
 
 
-Overfull \hbox (13.90463pt too wide) in paragraph at lines 573--574
+Overfull \hbox (13.90463pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 fig-u-ra-tions will pro-vide new op-por-tu-ni-ties for CESM po-
 lar sci-ence, and they aim to con- 
  []
 
 
-Overfull \hbox (8.98792pt too wide) in paragraph at lines 573--574
+Overfull \hbox (8.98792pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 tribute to an im-proved un-der-stand-ing of the po-lar en-vi-ro
 n-ment. How-ever, we rec-og-nize 
  []
 
 
-Overfull \hbox (0.87677pt too wide) in paragraph at lines 573--574
+Overfull \hbox (0.87677pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 the po-ten-tially pro-hibitive costs for some users, and so wil
 l con-tinue to ex-plore dif-fer- 
  []
 
 
-Overfull \hbox (5.32123pt too wide) in paragraph at lines 573--574
+Overfull \hbox (5.32123pt too wide) in paragraph at lines 574--575
 \OT1/cmr/m/n/10 ent grids, pa-ram-e-ter-i-za-tions and work-flows that can pro-
 vide some of the same ben-e-fits 
  []
@@ -5026,53 +5040,56 @@ vide some of the same ben-e-fits
 <Vis1472.jpg, id=121, 1927.2pt x 1084.05pt>
 File: Vis1472.jpg Graphic file (type jpg)
 <use Vis1472.jpg>
-Package pdftex.def Info: Vis1472.jpg  used on input line 577.
+Package pdftex.def Info: Vis1472.jpg  used on input line 578.
 (pdftex.def)             Requested size: 369.88582pt x 208.05583pt.
 
-Underfull \hbox (badness 4441) in paragraph at lines 579--579
+Underfull \hbox (badness 4441) in paragraph at lines 580--580
 []\OT1/cmr/bx/n/9 Figure  16. \OT1/cmr/m/n/9 Snap-shot of the low-est model lev
 el stream-lines from the $\OT1/cmtt/m/n/9 Arctic \OMS/cmsy/m/n/9 ^^@ \OT1/cmtt/
 m/n/9 GrIS$ \OT1/cmr/m/n/9 vi-su-al-iza-
  []
 
 
-Overfull \hbox (21.29486pt too wide) in paragraph at lines 716--716
+Overfull \hbox (21.29486pt too wide) in paragraph at lines 717--717
 []\OT1/cmr/bx/n/10.95 Details on []spec-tral[]-element dy-nam-i-cal core im-pro
 ve-ments 
  []
 
 
-Overfull \hbox (7.79338pt too wide) in paragraph at lines 717--718
+Overfull \hbox (7.79338pt too wide) in paragraph at lines 718--719
 []\OT1/cmr/m/n/10 Since the CESM2.0 re-lease of the spectral-element dy-nam-i-c
 al core doc-u-mented in 
  []
 
 
-Overfull \hbox (19.93245pt too wide) in paragraph at lines 717--718
+Overfull \hbox (19.93245pt too wide) in paragraph at lines 718--719
 []\OT1/cmr/m/n/10 Lauritzen et al.[] (2018) some im-por-tant al-go-rith-mic im-
 prove-ments have been im-ple-mented 
  []
 
 
-Overfull \hbox (7.48795pt too wide) in paragraph at lines 717--718
+Overfull \hbox (7.48795pt too wide) in paragraph at lines 718--719
 \OT1/cmr/m/n/10 and re-leased with CESM2.2. These per-tain mainly to the flow o
 ver orog-ra-phy that, for 
  []
 
 
-Overfull \hbox (9.18233pt too wide) in paragraph at lines 717--718
+Overfull \hbox (9.18233pt too wide) in paragraph at lines 718--719
 \OT1/cmr/m/n/10 the spectral-element dy-nam-i-cal core, can lead to noise align
 ed with the el-e-ment bound- 
  []
 
 
-Overfull \hbox (13.51569pt too wide) in paragraph at lines 719--720
+Overfull \hbox (13.51569pt too wide) in paragraph at lines 720--721
 []\OT1/cmr/m/n/10 Significant im-prove-ment in re-mov-ing noise for flow over o
 rog-ra-phy can be achieved 
  []
 
 
-Overfull \hbox (4.6762pt too wide) in paragraph at lines 723--725
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (4.6762pt too wide) in paragraph at lines 724--726
 []\OT1/cmr/m/n/10 Simmons & Ji-abin, 1991) where $\OML/cmm/m/it/10 T[] \OT1/cmr
 /m/n/10 = ^^@[]\OML/cmm/m/it/10 T[]c[]=g \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 1
 92\OML/cmm/m/it/10 K$\OT1/cmr/m/n/10 , []with grav-ity $\OML/cmm/m/it/10 g$\OT1
@@ -5080,361 +5097,359 @@ Overfull \hbox (4.6762pt too wide) in paragraph at lines 723--725
  []
 
 
-Overfull \hbox (0.53961pt too wide) in paragraph at lines 723--725
+Overfull \hbox (0.53961pt too wide) in paragraph at lines 724--726
 \OT1/cmr/m/n/10 heat of dry air at con-stant pres-sure; $\OML/cmm/m/it/10 R[]$ 
 \OT1/cmr/m/n/10 gas con-stant for dry air), and $^^H[]$ []is the[] sur- 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Overfull \hbox (3.50374pt too wide) in paragraph at lines 727--729
+Overfull \hbox (3.50374pt too wide) in paragraph at lines 728--730
 \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 ^^T \OT1/cmr/m/n/10 = []$. The ref-er-e
 nce sur-face pres-sure $\OML/cmm/m/it/10 p[] \OT1/cmr/m/n/10 = 1000\OML/cmm/m/i
 t/10 hPa$ \OT1/cmr/m/n/10 and at each model level 
  []
 
 
-Overfull \hbox (17.02989pt too wide) in paragraph at lines 727--729
+Overfull \hbox (17.02989pt too wide) in paragraph at lines 728--730
 \OT1/cmr/m/n/10 the ref-er-ence pres-sure $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/1
 0 is com-puted from $\OML/cmm/m/it/10 p[]$ \OT1/cmr/m/n/10 and the stan-dard hy
 -brid co-ef-fi-cients  
  []
 
 
-Overfull \hbox (4.51906pt too wide) in paragraph at lines 731--733
+Overfull \hbox (4.51906pt too wide) in paragraph at lines 732--734
 \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 A$ \OT1/cmr/m/n/10 and $\OML/cmm/m/it/1
 0 B$ \OT1/cmr/m/n/10 are the stan-dard []hy-brid[] co-ef-fi-cients (us-ing a dr
 y-mass gen-er-al-ized ver- 
  []
 
 
-Overfull \hbox (19.89525pt too wide) in paragraph at lines 731--733
+Overfull \hbox (19.89525pt too wide) in paragraph at lines 732--734
 \OT1/cmr/m/n/10 ti-cal mass co-or-di-nate $\OML/cmm/m/it/10 ^^Q$\OT1/cmr/m/n/10
  ). These ref-er-ence pro-files are sub-tracted from the prog-nos-tic tem- 
  []
 
 
-Overfull \hbox (11.29346pt too wide) in paragraph at lines 738--740
+Overfull \hbox (11.29346pt too wide) in paragraph at lines 739--741
 \OT1/cmr/m/n/10 This re-duces spu-ri-ous trans-port of tem-per-a-ture and mass 
 up/down-slope due to the hy- 
  []
 
 
-Overfull \hbox (4.37675pt too wide) in paragraph at lines 743--744
+Overfull \hbox (4.37675pt too wide) in paragraph at lines 744--745
 []\OT1/cmr/m/n/10 In the CESM2.0 the fol-low-ing (stan-dard) form of the pres-s
 ure gra-di-ent term was 
  []
 
 
-Overfull \hbox (16.21915pt too wide) in paragraph at lines 747--750
+Overfull \hbox (16.21915pt too wide) in paragraph at lines 748--751
 \OT1/cmr/m/n/10 where $^^H$ is geopo-ten-tial and $\OML/cmm/m/it/10 ^^Z \OT1/cm
 r/m/n/10 = []$ is den-sity []for de-tails see  Lau-ritzen et al.[], 2018). 
  []
 
 
-Overfull \hbox (13.48787pt too wide) in paragraph at lines 747--750
+Overfull \hbox (13.48787pt too wide) in paragraph at lines 748--751
 \OT1/cmr/m/n/10 To al-le-vi-ate noise for flow over orog-ra-phy, we switched to
  an Exner pres-sure for-mu-la-tion 
  []
 
 
-Overfull \hbox (15.82124pt too wide) in paragraph at lines 747--750
+Overfull \hbox (15.82124pt too wide) in paragraph at lines 748--751
 \OT1/cmr/m/n/10 fol-low-ing []Taylor et al.[] (2020), which uses that (A7[]) ca
 n be writ-ten in terms of the Exner 
  []
 
 
-Overfull \hbox (9.54465pt too wide) in paragraph at lines 760--762
+Overfull \hbox (9.54465pt too wide) in paragraph at lines 761--763
 \OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 m[]$ \OT1/cmr/m/n/10 is dry mix-ing ra-
 tio of com-po-nent of moist air $\OML/cmm/m/it/10 `$\OT1/cmr/m/n/10 ; $\OMS/cms
 y/m/n/10 L[]$ \OT1/cmr/m/n/10 is the set of all com-po- 
  []
 
 [22]
-Overfull \hbox (10.36061pt too wide) in paragraph at lines 772--774
+Overfull \hbox (10.36061pt too wide) in paragraph at lines 773--775
 []\OT1/cmr/m/n/10 where vir-tual po-ten-tial tem-per-a-ture is $\OML/cmm/m/it/1
 0 T[]=\OT1/cmr/m/n/10 ^^E$.[] Us-ing the ref-er-ence states from []Simmons 
  []
 
 
-Overfull \hbox (1.1546pt too wide) in paragraph at lines 790--792
+Overfull \hbox (1.1546pt too wide) in paragraph at lines 791--793
 \OT1/cmr/m/n/10 In the con-tin-uum, the two for-mu-la-tions (left and right-han
 d side of (A15[])) are iden-ti- 
  []
 
 
-Overfull \hbox (9.23788pt too wide) in paragraph at lines 790--792
+Overfull \hbox (9.23788pt too wide) in paragraph at lines 791--793
 \OT1/cmr/m/n/10 cal. But un-der dis-cretiza-tion, the sec-ond for-mu-la-tion ca
 n have much less trun-ca-tion er- 
  []
 
 
-Overfull \hbox (3.51514pt too wide) in paragraph at lines 794--795
+Overfull \hbox (3.51514pt too wide) in paragraph at lines 795--796
 []\OT1/cmr/m/n/10 One year av-er-ages of ver-ti-cal pres-sure ve-loc-ity at 500
 hPa ( \OT1/cmtt/m/n/10 OMEGA500\OT1/cmr/m/n/10 ) have been 
  []
 
 
-Overfull \hbox (19.96016pt too wide) in paragraph at lines 794--795
+Overfull \hbox (19.96016pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 found to be a use-ful quan-tity to de-tect spu-ri-ous up or dow
 n-drafts in-duced by steep orog- 
  []
 
 
-Overfull \hbox (22.01576pt too wide) in paragraph at lines 794--795
+Overfull \hbox (22.01576pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 ra-phy (Fig-ure A1[]). While the true so-lu-tion is not known, 
 strong ver-ti-cal ve-loc-i-ties aligned 
  []
 
 
-Overfull \hbox (15.07124pt too wide) in paragraph at lines 794--795
+Overfull \hbox (15.07124pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 with el-e-ment edges that are not found in the CAM-FV ref-er-en
 ce so-lu-tion (Fig-ure A1[](a)) 
  []
 
 
-Overfull \hbox (9.84906pt too wide) in paragraph at lines 794--795
+Overfull \hbox (9.84906pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 are likely not phys-i-cal (spu-ri-ous). The older CESM2.0 ver-s
 ion of SE (Fig-ure A1[](d)) us- 
  []
 
 
-Overfull \hbox (15.33524pt too wide) in paragraph at lines 794--795
+Overfull \hbox (15.33524pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 ing the "tra-di-tional" dis-cretiza-tion of the PGF, (A15[]), e
 x-hibits sig-nif-i-cant spu-ri-ous noise 
  []
 
 
-Overfull \hbox (12.82132pt too wide) in paragraph at lines 794--795
+Overfull \hbox (12.82132pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 pat-ters around steep orog-ra-phy com-pared to CAM-FV (e.g., ar
 ound Hi-malayas and An- 
  []
 
 
-Overfull \hbox (11.52963pt too wide) in paragraph at lines 794--795
+Overfull \hbox (11.52963pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 des). This is strongly al-le-vi-ated by switch-ing to the Exner
  for-mu-la-tion of the PGF (A8[]; 
  []
 
 
-Overfull \hbox (3.51564pt too wide) in paragraph at lines 794--795
+Overfull \hbox (3.51564pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 Fig-ure A1[](c)). By also sub-tract-ing ref-er-ence pro-files f
 rom pressure-level thick-ness and 
  []
 
 
-Overfull \hbox (5.8768pt too wide) in paragraph at lines 794--795
+Overfull \hbox (5.8768pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 tem-per-a-ture, equa-tions (A5[]) and (A6[]) re-spec-tively, re
 -duces strong up-down drafts fur- 
  []
 
 
-Overfull \hbox (7.48787pt too wide) in paragraph at lines 794--795
+Overfull \hbox (7.48787pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 ther (Fig-ure A1[](d)). Switch-ing to the CAM-SE-CSLAM ver-sion
  where physics ten-den- 
  []
 
 
-Overfull \hbox (7.96011pt too wide) in paragraph at lines 794--795
+Overfull \hbox (7.96011pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 cies are com-puted on an quasi-equal area physics grid and us-i
 ng the CSLAM trans-port 
  []
 
 
-Overfull \hbox (20.8768pt too wide) in paragraph at lines 794--795
+Overfull \hbox (20.8768pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 scheme, marginal im-prove-ments are ob-served in terms of a smo
 other ver-ti-cal ve-loc-ity field 
  []
 
 
-Overfull \hbox (2.96019pt too wide) in paragraph at lines 794--795
+Overfull \hbox (2.96019pt too wide) in paragraph at lines 795--796
 \OT1/cmr/m/n/10 (Fig-ure A1[](e,f)). The con-fig-u-ra-tion shown in Fig-ure A1[
 ](d) is used for the sim-u-la-tions 
  []
 
 
-Overfull \hbox (14.0434pt too wide) in paragraph at lines 796--797
+Overfull \hbox (14.0434pt too wide) in paragraph at lines 797--798
 []\OT1/cmr/m/n/10 It is in-ter-est-ing to note that the noise is-sues and al-go
 -rith-mic reme-dies found in the 
  []
 
 
-Overfull \hbox (1.2101pt too wide) in paragraph at lines 796--797
+Overfull \hbox (1.2101pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 real-world sim-u-la-tions dis-cussed above, can be in-ves-ti-ga
 ted by re-plac-ing all of physics 
  []
 
 
-Overfull \hbox (8.09906pt too wide) in paragraph at lines 796--797
+Overfull \hbox (8.09906pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 with a mod-i-fied ver-sion of the Held-Suarez forc-ing []Held &
  Suarez, 1994). The orig-i-nal 
  []
 
 
-Overfull \hbox (7.59541pt too wide) in paragraph at lines 796--797
+Overfull \hbox (7.59541pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 for-mu-la-tion of the Held-Suarez ide-al-ized test case used a 
 flat Earth ($^^H[] = 0$) and a dry 
  []
 
 
-Overfull \hbox (4.62689pt too wide) in paragraph at lines 796--797
+Overfull \hbox (4.62689pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 at-mo-sphere. By sim-ply adding the sur-face to-pog-ra-phy used
  in `real-world' sim-u-la-tions 
  []
 
 
-Overfull \hbox (12.81071pt too wide) in paragraph at lines 796--797
+Overfull \hbox (12.81071pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 and re-mov-ing the tem-per-a-ture re-lax-ation in the lower par
 t of do-main ($\OML/cmm/m/it/10 ^^[ > \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/c
 mr/m/n/10 7$; see []Held 
  []
 
 
-Overfull \hbox (4.26572pt too wide) in paragraph at lines 796--797
+Overfull \hbox (4.26572pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 and Suarez (1994) for de-tails), sur-pris-ingly re-al-is-tic ve
 r-ti-cal ve-loc-ity fields (in terms of 
  []
 
 
-Overfull \hbox (26.98785pt too wide) in paragraph at lines 796--797
+Overfull \hbox (26.98785pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/10 struc-ture) re-sult (see Fig-ure A2[]). Since this was a very u
 se-ful de-vel-op-ment tool it is shared 
  []
 
-<OMEGA500F2000climo.pdf, id=130, 237.70605pt x 274.6544pt>
+[23]
+<OMEGA500F2000climo.pdf, id=133, 237.70605pt x 274.6544pt>
 File: OMEGA500F2000climo.pdf Graphic file (type pdf)
 <use OMEGA500F2000climo.pdf>
-Package pdftex.def Info: OMEGA500F2000climo.pdf  used on input line 800.
+Package pdftex.def Info: OMEGA500F2000climo.pdf  used on input line 801.
 (pdftex.def)             Requested size: 412.56496pt x 476.72552pt.
 
-Overfull \hbox (15.07997pt too wide) in paragraph at lines 800--801
+Overfull \hbox (15.07997pt too wide) in paragraph at lines 801--802
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 []\OT1/cmr/bx/n/9 Figure  A1. \OT1/cmr/m/n/9 One year av-er-ages of ver-ti-cal 
 pres-sure ve-loc-ity at 500hPa ($\OT1/cmtt/m/n/9 OMEGA500$\OT1/cmr/m/n/9 ) us-i
 ng (a)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 CAM-FV (Finite-Volume dy-nam-i-cal core) and (b-f) var-i-ous ver
 -sions of the spectral-element (SE)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 dy-nam-i-cal core at ap-prox-i-mately $1[]$ hor-i-zon-tal res-o-
 lu-tion and us-ing 32 lev-els. (b) is equiv-a-lent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 to the CESM2.0 ver-sion of the SE dy-nam-i-cal core us-ing the "
 tra-di-tional"/"old" dis-cretiza-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 the pressure-gradient force (PGF). Plot (c) is equiv-a-lent to c
 on-fig-u-ra-tion (b) but us-ing the Exner
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 form of the PGF. Plot (d) is the same as con-fig-u-ra-tion (c) b
 ut also sub-tract-ing ref-er-ence pro-files
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 from pres-sure and tem-per-a-ture be-fore ap-ply-ing hy-per-vis-
 cos-ity op-er-a-tors (which is equiv-a-lent to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 the CESM2.2 ver-sion of SE in terms of the dy-nam-i-cal core). P
 lots (e) and (f) are equiv-a-lent to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 \OT1/cmr/m/n/9 (c) and (d), re-spec-tively, by us-ing the SE-CSLAM ($\OT1/cmtt/
 m/n/9 ne30pg3$\OT1/cmr/m/n/9 ) ver-sion of the SE dy-nam-i-cal core
  []
 
-<OMEGA500FHS94.pdf, id=131, 239.62744pt x 276.15028pt>
+<OMEGA500FHS94.pdf, id=134, 239.62744pt x 276.15028pt>
 File: OMEGA500FHS94.pdf Graphic file (type pdf)
 <use OMEGA500FHS94.pdf>
-Package pdftex.def Info: OMEGA500FHS94.pdf  used on input line 806.
+Package pdftex.def Info: OMEGA500FHS94.pdf  used on input line 807.
 (pdftex.def)             Requested size: 412.56496pt x 475.44957pt.
 
-Overfull \hbox (15.07997pt too wide) in paragraph at lines 806--807
+Overfull \hbox (15.07997pt too wide) in paragraph at lines 807--808
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 808--808
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 []\OT1/cmr/bx/n/9 Figure  A2. \OT1/cmr/m/n/9 Same as Fig-ure A1[] but us-ing mo
 d-i-fied Held-Suarez forc-ing and the av-er-age is
  []
 
-[23]
-Overfull \hbox (16.82123pt too wide) in paragraph at lines 877--879
+
+Overfull \hbox (16.82123pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 This ma-te-rial is based upon work sup-ported by the Na-tional 
 Cen-ter for At-mo-spheric Re- 
  []
 
 
-Overfull \hbox (23.29344pt too wide) in paragraph at lines 877--879
+Overfull \hbox (23.29344pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 search (NCAR), which is a ma-jor fa-cil-ity spon-sored by the N
 SF un-der Co-op-er-a-tive Agree- 
  []
 
 
-Overfull \hbox (1.84904pt too wide) in paragraph at lines 877--879
+Overfull \hbox (1.84904pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 ment 1852977. Com-put-ing and data stor-age re-sources, in-clud
 -ing the Cheyenne su-per- 
  []
 
 
-Overfull \hbox (2.2103pt too wide) in paragraph at lines 877--879
+Overfull \hbox (2.2103pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 com-puter []Computational and In-for-ma-tion Sys-tems Lab-o-ra-
 tory, 2017), were pro-vided 
  []
 
 
-Overfull \hbox (6.59914pt too wide) in paragraph at lines 877--879
+Overfull \hbox (6.59914pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 by the Com-pu-ta-tional and In-for-ma-tion Sys-tems Lab-o-ra-to
 ry (CISL) at NCAR. A. Her- 
  []
 
 
-Overfull \hbox (9.65405pt too wide) in paragraph at lines 877--879
+Overfull \hbox (9.65405pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 ring-ton thanks Matt Rehme (NCAR/CISL) for his role in gen-er-a
 t-ing the $\OT1/cmtt/m/n/10 Arctic \OMS/cmsy/m/n/10 ^^@ \OT1/cmtt/m/n/10 GrIS$ 
 
  []
 
 
-Overfull \hbox (23.62439pt too wide) in paragraph at lines 877--879
+Overfull \hbox (23.62439pt too wide) in paragraph at lines 878--880
 \OT1/cmr/m/n/10 vi-su-al-iza-tion avail-able on youtube ($\OT1/cmtt/m/n/10 http
 s :// www [] .youtube [] .com / watch [] ?v = YwHgqDu75s8&t = 
  []
 
 
-Overfull \hbox (16.82045pt too wide) in paragraph at lines 880--881
+Overfull \hbox (16.82045pt too wide) in paragraph at lines 881--882
 []\OT1/cmr/m/n/10 The data pre-sented in main part of this manuscript is avail-
 able at $\OT1/cmtt/m/n/10 https :// github [] 
  []
 
 
-Overfull \hbox (19.4585pt too wide) in paragraph at lines 880--881
+Overfull \hbox (19.4585pt too wide) in paragraph at lines 881--882
 \OT1/cmtt/m/n/10 .com / adamrher / 2020 [] -arcticgrids$\OT1/cmr/m/n/10 . The s
 ource code and data for the Ap-pendix is avail- 
  []
@@ -5517,7 +5532,7 @@ Underfull \hbox (badness 1616) in paragraph at lines 229--241
 r glacier-climate re-search. 
  []
 
-
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 253--272
 []\OT1/cmr/m/n/10 Burakowski, E. A., Taw-fik, A., Ouimette, A., Lep-ine, L., Za
 rzy-cki, C., Novick, K., 
@@ -5541,7 +5556,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--329
 uid dy-nam-ics \OT1/cmr/m/n/10 (1st ed.[]). 
  []
 
-[24]
+
 Underfull \hbox (badness 10000) in paragraph at lines 341--362
 []\OT1/cmr/m/n/10 Chang, P., Zhang, S., Dan-aba-soglu, G., Yea-ger, S. G., Fu, 
 H., Wang, H., ... oth- 
@@ -5707,6 +5722,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 703--722
  []
 
 
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+ [25]
 Underfull \hbox (badness 10000) in paragraph at lines 734--754
 []\OT1/cmr/m/n/10 Fettweis, X., Franco, B., Tedesco, M., Van An-ge-len, J., Len
 aerts, J. T., van den 
@@ -5731,9 +5749,6 @@ meis-ter, J., Lau-ritzen, P.,
  []
 
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
-
- [25]
 Underfull \hbox (badness 10000) in paragraph at lines 798--816
 []\OT1/cmr/m/n/10 Gettelman, A., Han-nay, C., Bacmeis-ter, J. T., Neale, R. B.,
  Pen-der-grass, A., Dan- 
@@ -5858,6 +5873,9 @@ he com-mu-nity at-
  []
 
 
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [26]
 Underfull \hbox (badness 2556) in paragraph at lines 1201--1220
 []\OT1/cmr/m/n/10 Jablonowski, C., & Williamson, D. L.  (2011).  The pros and c
 ons of dif-fu-sion, fil- 
@@ -5895,9 +5913,6 @@ Dev.\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 8\OT1/cmr/m/n/10 (12), 3975-3986.  doi:
  []
 
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
-
- [26]
 Underfull \hbox (badness 10000) in paragraph at lines 1267--1283
 []\OT1/cmr/m/n/10 Lauritzen, P. H., Jablonowski, C., Tay-lor, M., & Nair, R. D.
   (2010).  Ro-tated 
@@ -6068,6 +6083,9 @@ d-el-ing Earth Sys-tems\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 13\OT1/cmr/m/n/10 (6)
  []
 
 
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [27]
 Underfull \hbox (badness 3138) in paragraph at lines 1670--1684
 []\OT1/cmr/m/n/10 Neale, R. B., Richter, J. H., & Jochum, M.  (2008).  The im-p
 act of con-vec-tion on 
@@ -6093,9 +6111,6 @@ e sheet.  \OT1/cmr/m/it/10 The
  []
 
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
-
- [27]
 Underfull \hbox (badness 10000) in paragraph at lines 1756--1775
 []\OT1/cmr/m/n/10 No^^?el, B., van de Berg, W. J., Van Wessem, J. M., Van Mei-j
 -gaard, E., Van As, D., 
@@ -6194,7 +6209,7 @@ Underfull \hbox (badness 6141) in paragraph at lines 2101--2117
  model.  \OT1/cmr/m/it/10 J. At-mos. Sci.\OT1/cmr/m/n/10 , 
  []
 
-
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 2156--2175
 []\OT1/cmr/m/n/10 Roeckner, E., Brokopf, R., Esch, M., Gior-getta, M., Hage-man
 n, S., Ko-rn-blueh, L., 
@@ -6236,7 +6251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2217--2234
 hang, J., & Tren-berth, 
  []
 
-[28]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2248--2271
 []\OT1/cmr/m/n/10 Simmons, A. J., & Ji-abin, C.  (1991).  The cal-cu-la-tion of
  geopo-ten-tial and 
@@ -6389,6 +6404,9 @@ nd sur-face mass
  []
 
 
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+ [29]
 Underfull \hbox (badness 10000) in paragraph at lines 2638--2657
 []\OT1/cmr/m/n/10 Wan, H., Gior-getta, M. A., Z^^?angl, G., Restelli, M., Ma-je
 w-ski, D., Bonaven-tura, L., 
@@ -6413,9 +6431,6 @@ s for global at-mo-spheric
  []
 
 
-Underfull \vbox (badness 1043) has occurred while \output is active []
-
- [29]
 Underfull \hbox (badness 10000) in paragraph at lines 2752--2767
 []\OT1/cmr/m/n/10 Zhang, G., & Mc-Far-lane, N.  (1995).  Sen-si-tiv-ity of cli-
 mate sim-u-la-tions to the 
@@ -6445,7 +6460,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  3650 strings out of 492616
  51837 string characters out of 6129482
- 148296 words of memory out of 5000000
+ 147296 words of memory out of 5000000
  7492 multiletter control sequences out of 15000+600000
  10706 words of font info for 39 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
@@ -6476,7 +6491,7 @@ nts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2019/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2019/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmtt9.pfb>
-Output written on arcticgrids.pdf (41 pages, 38889431 bytes).
+Output written on arcticgrids.pdf (41 pages, 37769996 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  204 compressed objects within 3 object streams
